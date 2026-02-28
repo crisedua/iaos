@@ -261,7 +261,7 @@ app.get('/api/freedcamp/tasks', async (req, res) => {
 // ── Core Memory ──
 app.get('/api/core-memory', async (req, res) => {
   if (!supabase) return res.json({ entries: [] });
-  const { data, error } = await supabase.from('core_memory').select('*').order('category').order('key');
+  const { data, error } = await supabase.from('iaos_core_memory').select('*').order('category').order('key');
   if (error) return res.status(500).json({ error: error.message });
   res.json({ entries: data || [] });
 });
@@ -269,7 +269,7 @@ app.get('/api/core-memory', async (req, res) => {
 app.post('/api/core-memory', async (req, res) => {
   if (!supabase) return res.status(503).json({ error: 'Supabase not configured' });
   const { category, key, value, notes } = req.body;
-  const { data, error } = await supabase.from('core_memory')
+  const { data, error } = await supabase.from('iaos_core_memory')
     .insert({ category, key, value, notes })
     .select().single();
   if (error) return res.status(500).json({ error: error.message });
@@ -279,7 +279,7 @@ app.post('/api/core-memory', async (req, res) => {
 app.put('/api/core-memory/:id', async (req, res) => {
   if (!supabase) return res.status(503).json({ error: 'Supabase not configured' });
   const { value } = req.body;
-  const { error } = await supabase.from('core_memory')
+  const { error } = await supabase.from('iaos_core_memory')
     .update({ value, updated_at: new Date().toISOString() })
     .eq('id', req.params.id);
   if (error) return res.status(500).json({ error: error.message });
@@ -288,7 +288,7 @@ app.put('/api/core-memory/:id', async (req, res) => {
 
 app.delete('/api/core-memory/:id', async (req, res) => {
   if (!supabase) return res.status(503).json({ error: 'Supabase not configured' });
-  const { error } = await supabase.from('core_memory').delete().eq('id', req.params.id);
+  const { error } = await supabase.from('iaos_core_memory').delete().eq('id', req.params.id);
   if (error) return res.status(500).json({ error: error.message });
   res.json({ ok: true });
 });
@@ -296,7 +296,7 @@ app.delete('/api/core-memory/:id', async (req, res) => {
 // ── Reminders ──
 app.get('/api/reminders', async (req, res) => {
   if (!supabase) return res.json({ reminders: [] });
-  const { data, error } = await supabase.from('reminders')
+  const { data, error } = await supabase.from('iaos_reminders')
     .select('*').order('scheduled_at');
   if (error) return res.status(500).json({ error: error.message });
   res.json({ reminders: data || [] });
@@ -305,7 +305,7 @@ app.get('/api/reminders', async (req, res) => {
 app.post('/api/reminders', async (req, res) => {
   if (!supabase) return res.status(503).json({ error: 'Supabase not configured' });
   const { text, scheduled_at, recurrence } = req.body;
-  const { data, error } = await supabase.from('reminders')
+  const { data, error } = await supabase.from('iaos_reminders')
     .insert({ text, scheduled_at, recurrence: recurrence === 'none' ? null : recurrence })
     .select().single();
   if (error) return res.status(500).json({ error: error.message });
@@ -314,7 +314,7 @@ app.post('/api/reminders', async (req, res) => {
 
 app.delete('/api/reminders/:id', async (req, res) => {
   if (!supabase) return res.status(503).json({ error: 'Supabase not configured' });
-  const { error } = await supabase.from('reminders').delete().eq('id', req.params.id);
+  const { error } = await supabase.from('iaos_reminders').delete().eq('id', req.params.id);
   if (error) return res.status(500).json({ error: error.message });
   res.json({ ok: true });
 });
@@ -322,7 +322,7 @@ app.delete('/api/reminders/:id', async (req, res) => {
 // ── Documents ──
 app.get('/api/documents', async (req, res) => {
   if (!supabase) return res.json({ documents: [] });
-  const { data, error } = await supabase.from('documents')
+  const { data, error } = await supabase.from('iaos_documents')
     .select('*').order('created_at', { ascending: false });
   if (error) return res.status(500).json({ error: error.message });
   res.json({ documents: data || [] });
@@ -331,7 +331,7 @@ app.get('/api/documents', async (req, res) => {
 // ── Agent Jobs ──
 app.get('/api/agent-jobs', async (req, res) => {
   if (!supabase) return res.json({ jobs: [] });
-  const { data, error } = await supabase.from('agent_jobs')
+  const { data, error } = await supabase.from('iaos_agent_jobs')
     .select('*').order('created_at', { ascending: false }).limit(50);
   if (error) return res.status(500).json({ error: error.message });
   res.json({ jobs: data || [] });

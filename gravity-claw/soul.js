@@ -34,7 +34,7 @@ export async function loadSoulContext() {
     // Load core memory from Supabase
     try {
         const { data } = await supabase
-            .from('core_memory')
+            .from('iaos_core_memory')
             .select('category, key, value')
             .order('category')
             .order('key');

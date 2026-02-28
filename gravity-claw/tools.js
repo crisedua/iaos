@@ -20,7 +20,7 @@ const supabase = createClient(
 // ── Job Logging ───────────────────────────────────────────────
 
 export async function logJob({ type, summary, details = {}, channel = 'telegram', status = 'done' }) {
-    const { data } = await supabase.from('agent_jobs')
+    const { data } = await supabase.from('iaos_agent_jobs')
         .insert({ type, summary, details, channel, status })
         .select().single();
     return data;
@@ -34,7 +34,7 @@ export async function createFreedcampTask({ title, description = '', projectId, 
     // Resolve assignee name → user ID from core_memory team_mappings
     let assigneeId = null;
     if (assignee) {
-        const { data } = await supabase.from('core_memory')
+        const { data } = await supabase.from('iaos_core_memory')
             .select('value')
             .eq('category', 'team_mappings')
             .eq('key', assignee.toLowerCase())
@@ -77,7 +77,7 @@ export async function getFreedcampTasks(projectId) {
 // ── Reminders ─────────────────────────────────────────────────
 
 export async function createReminder({ text, scheduledAt, recurrence = null, channel = 'telegram' }) {
-    const { data } = await supabase.from('reminders')
+    const { data } = await supabase.from('iaos_reminders')
         .insert({ text, scheduled_at: scheduledAt, recurrence, channel })
         .select().single();
 
@@ -91,7 +91,7 @@ export async function createReminder({ text, scheduledAt, recurrence = null, cha
 
 export async function getPendingReminders() {
     const { data } = await supabase
-        .from('reminders')
+        .from('iaos_reminders')
         .select('*')
         .eq('sent', false)
         .lte('scheduled_at', new Date().toISOString())
@@ -100,7 +100,7 @@ export async function getPendingReminders() {
 }
 
 export async function markReminderSent(id) {
-    await supabase.from('reminders')
+    await supabase.from('iaos_reminders')
         .update({ sent: true, sent_at: new Date().toISOString() })
         .eq('id', id);
 }
@@ -113,7 +113,7 @@ export async function saveDocument({ name, type, content, client }) {
     try {
         const bytes = Buffer.from(content);
         const { data: uploadData, error } = await supabase.storage
-            .from('documents')
+            .from('iaos_documents')
             .upload(`${type}/${name}`, bytes, {
                 contentType: type === 'pdf' ? 'application/pdf' : 'text/html',
                 upsert: true,
@@ -123,7 +123,7 @@ export async function saveDocument({ name, type, content, client }) {
         console.error('Storage upload failed:', e.message);
     }
 
-    const { data } = await supabase.from('documents')
+    const { data } = await supabase.from('iaos_documents')
         .insert({ name, type, storage_path: storagePath, client })
         .select().single();
 
@@ -139,18 +139,18 @@ export async function saveDocument({ name, type, content, client }) {
 
 export async function rememberFact({ category = 'key_facts', key, value }) {
     // Upsert by category+key
-    const { data: existing } = await supabase.from('core_memory')
+    const { data: existing } = await supabase.from('iaos_core_memory')
         .select('id')
         .eq('category', category)
         .eq('key', key)
         .single();
 
     if (existing) {
-        await supabase.from('core_memory')
+        await supabase.from('iaos_core_memory')
             .update({ value, updated_at: new Date().toISOString() })
             .eq('id', existing.id);
     } else {
-        await supabase.from('core_memory').insert({ category, key, value });
+        await supabase.from('iaos_core_memory').insert({ category, key, value });
     }
 
     await logJob({
@@ -173,7 +173,7 @@ export async function buildDailyBrief() {
     } catch { }
 
     // Get pending reminders for today
-    const { data: reminders } = await supabase.from('reminders')
+    const { data: reminders } = await supabase.from('iaos_reminders')
         .select('text, scheduled_at')
         .eq('sent', false)
         .gte('scheduled_at', today + 'T00:00:00.000Z')

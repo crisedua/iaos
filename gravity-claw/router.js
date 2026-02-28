@@ -27,7 +27,7 @@ const MODELS = {
 export async function getCurrentMode() {
     try {
         const { data } = await supabase
-            .from('agent_config')
+            .from('iaos_agent_config')
             .select('value')
             .eq('key', 'current_mode')
             .single();
@@ -39,7 +39,7 @@ export async function getCurrentMode() {
 
 export async function setMode(mode) {
     if (!['cheap', 'smart'].includes(mode)) throw new Error('Invalid mode: ' + mode);
-    await supabase.from('agent_config')
+    await supabase.from('iaos_agent_config')
         .update({ value: mode, updated_at: new Date().toISOString() })
         .eq('key', 'current_mode');
     return mode;

@@ -17,7 +17,7 @@ const MAX_MESSAGES = 20;
 
 export async function getConversationState(channel, userId) {
     const { data } = await supabase
-        .from('conversation_buffer')
+        .from('iaos_conversation_buffer')
         .select('*')
         .eq('channel', channel)
         .eq('user_id', userId)
@@ -42,7 +42,7 @@ export async function addMessage(channel, userId, role, content) {
         summary = compactMessages(toCompact, summary);
     }
 
-    await supabase.from('conversation_buffer').upsert({
+    await supabase.from('iaos_conversation_buffer').upsert({
         channel,
         user_id: userId,
         messages: trimmed,
@@ -72,7 +72,7 @@ export async function getMessagesForContext(channel, userId) {
 }
 
 export async function clearConversation(channel, userId) {
-    await supabase.from('conversation_buffer').upsert({
+    await supabase.from('iaos_conversation_buffer').upsert({
         channel, user_id: userId,
         messages: [], summary: '',
         updated_at: new Date().toISOString(),
