@@ -1,0 +1,6 @@
+# Tell Railway/Nixpacks to build and run from the gravity-claw subdirectory
+[phases.setup]
+cmds = ["cd gravity-claw && npm install"]
+
+[start]
+cmd = "cd gravity-claw && node index.js"
