@@ -1,0 +1,10 @@
+{
+  "job": 3,
+  "query": "dentista Valparaíso",
+  "category": "dentistas",
+  "city": "Valparaíso",
+  "runId": "hh9ln1bSnd6lE4ITk",
+  "datasetId": "iHgae9d9CwC48vsU6",
+  "status": "SUCCEEDED",
+  "rawCount": 100
+}

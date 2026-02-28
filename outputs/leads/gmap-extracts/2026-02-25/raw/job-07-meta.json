@@ -1,0 +1,10 @@
+{
+  "job": 7,
+  "query": "clínica médica Santiago",
+  "category": "clinicas",
+  "city": "Santiago",
+  "runId": "8VQwp1MfxvliALWj7",
+  "datasetId": "n2r7U8P53snBvHgbF",
+  "status": "SUCCEEDED",
+  "rawCount": 100
+}

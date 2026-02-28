@@ -1,0 +1,15 @@
+{
+  "name": "aios-workspace",
+  "version": "1.0.0",
+  "description": "AI OS for Business — workspace automation scripts",
+  "private": true,
+  "scripts": {
+    "bot": "node scripts/telegram-bot.js",
+    "prepare": "node scripts/prepare-outreach.js",
+    "send": "node scripts/send-whatsapp.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0",
+    "nodemailer": "^8.0.1"
+  }
+}

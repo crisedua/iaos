@@ -1,0 +1,6361 @@
+[{
+  "title": "Claudia Propiedades",
+  "price": null,
+  "categoryName": "Consultor inmobiliario",
+  "address": "Blanco 1041, Oficina 75, 2340000 Valparaíso, Chile",
+  "neighborhood": null,
+  "street": "Blanco 1041, Oficina 75",
+  "city": "Valparaíso",
+  "postalCode": "2340000",
+  "state": "Valparaíso",
+  "countryCode": "CL",
+  "website": "http://www.claudiapropiedades.cl/",
+  "phone": "+56 32 326 2549",
+  "phoneUnformatted": "+56323262549",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -33.0413683,
+    "lng": -71.6245201
+  },
+  "totalScore": 4.6,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJUdvZXCnhiZYRHgJbvQEyDiw",
+  "categories": [
+    "Consultor inmobiliario"
+  ],
+  "fid": "0x9689e1295cd9db51:0x2c0e3201bd5b021e",
+  "cid": "3174529770395992606",
+  "reviewsCount": 10,
+  "imagesCount": 9,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:31:29.214Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "miércoles",
+      "hours": "9 AM to 6 PM"
+    },
+    {
+      "day": "jueves",
+      "hours": "9 AM to 6 PM"
+    },
+    {
+      "day": "viernes",
+      "hours": "9 AM to 6 PM"
+    },
+    {
+      "day": "sábado",
+      "hours": "10 AM to 2 PM"
+    },
+    {
+      "day": "domingo",
+      "hours": "Cerrado"
+    },
+    {
+      "day": "lunes",
+      "hours": "9 AM to 6 PM"
+    },
+    {
+      "day": "martes",
+      "hours": "9 AM to 6 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Opciones de servicio": [
+      {
+        "Servicios en el lugar": true
+      },
+      {
+        "Citas en línea": false
+      }
+    ],
+    "Planificación": [
+      {
+        "Se requiere una cita": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Claudia%20Propiedades&query_place_id=ChIJUdvZXCnhiZYRHgJbvQEyDiw",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-55.72012092097866,-67.29139961007976,9z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 1,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO7pLXGlEJpMp-t0IqhXLBpkug7So0uVkIJ-2Fy=w476-h240-k-no",
+  "kgmid": "/g/11hctjzv6q"
+},
+{
+  "title": "INMOBILIARIA ASVICORP LTDA.",
+  "price": null,
+  "categoryName": "Agencia inmobiliaria",
+  "address": "Uruguay N°385, Oficinas 37 y 38, 2340000 Valparaíso, Chile",
+  "neighborhood": null,
+  "street": "Uruguay N°385, Oficinas 37 y 38",
+  "city": "Valparaíso",
+  "postalCode": "2340000",
+  "state": "Valparaíso",
+  "countryCode": "CL",
+  "website": "https://www.asvicorp.cl/",
+  "phone": "+56 9 9450 1517",
+  "phoneUnformatted": "+56994501517",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -33.0472381,
+    "lng": -71.6079887
+  },
+  "totalScore": 3.9,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJkaEIM9vgiZYRQ2wjjSm_lCk",
+  "categories": [
+    "Agencia inmobiliaria"
+  ],
+  "fid": "0x9689e0db3308a191:0x2994bf298d236c43",
+  "cid": "2996229837290695747",
+  "reviewsCount": 44,
+  "imagesCount": 3,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:31:29.215Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "miércoles",
+      "hours": "9 AM to 2 PM"
+    },
+    {
+      "day": "jueves",
+      "hours": "9 AM to 2 PM"
+    },
+    {
+      "day": "viernes",
+      "hours": "Cerrado"
+    },
+    {
+      "day": "sábado",
+      "hours": "Cerrado"
+    },
+    {
+      "day": "domingo",
+      "hours": "Cerrado"
+    },
+    {
+      "day": "lunes",
+      "hours": "9 AM to 2 PM"
+    },
+    {
+      "day": "martes",
+      "hours": "9 AM to 2 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=INMOBILIARIA%20ASVICORP%20LTDA.&query_place_id=ChIJkaEIM9vgiZYRQ2wjjSm_lCk",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-55.72012092097866,-67.29139961007976,9z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 2,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNSoSxC9Q-fR6zA-l1cP5LTa0qOSsn-icCu2Kia=w408-h325-k-no",
+  "kgmid": "/g/11fn6t23m0"
+},
+{
+  "title": "Edificio MarParaíso VI - Icafal Inmobiliaria",
+  "price": null,
+  "categoryName": "Oficinas de empresa",
+  "address": "Leonidas Valenzuela 1288, 2391373 Valparaíso, Chile",
+  "neighborhood": null,
+  "street": "Leonidas Valenzuela 1288",
+  "city": "Valparaíso",
+  "postalCode": null,
+  "state": "Valparaíso",
+  "countryCode": "CL",
+  "phone": "+56 32 279 9053",
+  "phoneUnformatted": "+56322799053",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -33.0450887,
+    "lng": -71.5857515
+  },
+  "totalScore": 4,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ2T2tXbvgiZYRCH5lctxoiBY",
+  "categories": [
+    "Oficinas de empresa"
+  ],
+  "fid": "0x9689e0bb5dad3dd9:0x168868dc72657e08",
+  "cid": "1623662961688411656",
+  "reviewsCount": 33,
+  "imagesCount": 19,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:31:29.215Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "miércoles",
+      "hours": "11 AM to 7 PM"
+    },
+    {
+      "day": "jueves",
+      "hours": "11 AM to 7 PM"
+    },
+    {
+      "day": "viernes",
+      "hours": "11 AM to 7 PM"
+    },
+    {
+      "day": "sábado",
+      "hours": "11 AM to 7 PM"
+    },
+    {
+      "day": "domingo",
+      "hours": "11 AM to 7 PM"
+    },
+    {
+      "day": "lunes",
+      "hours": "11 AM to 7 PM"
+    },
+    {
+      "day": "martes",
+      "hours": "11 AM to 7 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accesibilidad": [
+      {
+        "Entrada accesible para personas en silla de ruedas": true
+      },
+      {
+        "Estacionamiento accesible para personas en silla de ruedas": true
+      }
+    ],
+    "Servicios": [
+      {
+        "Sanitario": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Edificio%20MarPara%C3%ADso%20VI%20-%20Icafal%20Inmobiliaria&query_place_id=ChIJ2T2tXbvgiZYRCH5lctxoiBY",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-55.72012092097866,-67.29139961007976,9z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 3,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweocFqrPOcu00ML7EHMFRjqx1SziBNmu5DczcRGjngy1dHiUKg1K0rnWb0FTukcHMNnwW6iVpUHmQG1rcqUUvS9usSKLNUtARrQfdKL3FmKkhxscro3nSM7QAK9wwURVg6fLA3fafQ=w408-h306-k-no",
+  "kgmid": "/g/11f4p9v74v"
+},
+{
+  "title": "Edificio Mirador Barón",
+  "price": null,
+  "categoryName": "Condominio",
+  "address": "AV, Diego Portales 449, 2353223 Valparaíso, Chile",
+  "neighborhood": null,
+  "street": "AV, Diego Portales 449",
+  "city": "Valparaíso",
+  "postalCode": "2353223",
+  "state": "Valparaíso",
+  "countryCode": "CL",
+  "website": "http://www.miradorbaron.cl/",
+  "phone": "+56 32 259 5543",
+  "phoneUnformatted": "+56322595543",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -33.0414432,
+    "lng": -71.6041831
+  },
+  "totalScore": 4.7,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ_yTNFuvhiZYREsfpAqvGClM",
+  "categories": [
+    "Condominio"
+  ],
+  "fid": "0x9689e1eb16cd24ff:0x530ac6ab02e9c712",
+  "cid": "5983813492705707794",
+  "reviewsCount": 62,
+  "imagesCount": 140,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:31:29.215Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "miércoles",
+      "hours": "10:30 AM to 7:30 PM"
+    },
+    {
+      "day": "jueves",
+      "hours": "10:30 AM to 7:30 PM"
+    },
+    {
+      "day": "viernes",
+      "hours": "10:30 AM to 7:30 PM"
+    },
+    {
+      "day": "sábado",
+      "hours": "10:30 AM to 7:30 PM"
+    },
+    {
+      "day": "domingo",
+      "hours": "10:30 AM to 7:30 PM"
+    },
+    {
+      "day": "lunes",
+      "hours": "10:30 AM to 7:30 PM"
+    },
+    {
+      "day": "martes",
+      "hours": "10:30 AM to 7:30 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accesibilidad": [
+      {
+        "Entrada accesible para personas en silla de ruedas": true
+      },
+      {
+        "Estacionamiento accesible para personas en silla de ruedas": true
+      }
+    ],
+    "Servicios": [
+      {
+        "Piscina": true
+      },
+      {
+        "Sanitarios unisex": true
+      }
+    ],
+    "Público usual": [
+      {
+        "Amigable con LGBTQ+": true
+      },
+      {
+        "Espacio seguro para personas transgénero": true
+      }
+    ],
+    "Mascotas": [
+      {
+        "Se permiten perros": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Edificio%20Mirador%20Bar%C3%B3n&query_place_id=ChIJ_yTNFuvhiZYREsfpAqvGClM",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-55.72012092097866,-67.29139961007976,9z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 4,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOQL0vZgBdqAOZsywvT486Vnka0VlIfa4xs8cnz=w408-h408-k-no",
+  "kgmid": "/g/11h7ny21r2"
+},
+{
+  "title": "Inmobilia",
+  "price": null,
+  "categoryName": "Agencia inmobiliaria",
+  "address": "Esmeralda 1040, 2361888 Valparaíso, Chile",
+  "neighborhood": null,
+  "street": "Esmeralda 1040",
+  "city": "Valparaíso",
+  "postalCode": null,
+  "state": "Valparaíso",
+  "countryCode": "CL",
+  "website": "http://www.inmobiliachile.cl/",
+  "phone": "+56 32 225 6188",
+  "phoneUnformatted": "+56322256188",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -33.0417134,
+    "lng": -71.6249599
+  },
+  "totalScore": 2.3,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJa9yMRSnhiZYR2h41q-7tMGA",
+  "categories": [
+    "Agencia inmobiliaria",
+    "Empresa constructora"
+  ],
+  "fid": "0x9689e129458cdc6b:0x6030edeeab351eda",
+  "cid": "6931301435853577946",
+  "reviewsCount": 3,
+  "imagesCount": 1,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:31:29.215Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Inmobilia&query_place_id=ChIJa9yMRSnhiZYR2h41q-7tMGA",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-55.72012092097866,-67.29139961007976,9z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 5,
+  "isAdvertisement": false,
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=wZFX9gnlmJQs5-4j7pXtfw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=355.84045&pitch=0&thumbfov=100",
+  "kgmid": "/g/1v3j05wt"
+},
+{
+  "title": "Edificio Alto Placeres",
+  "price": null,
+  "categoryName": "Complejo de apartamentos",
+  "address": "Carmen 446, Valparaíso, Chile",
+  "neighborhood": null,
+  "street": "Carmen 446",
+  "city": "Valparaíso",
+  "postalCode": null,
+  "state": "Valparaíso",
+  "countryCode": "CL",
+  "website": "http://www.altoplaceres.cl/",
+  "phone": "+56 32 328 3149",
+  "phoneUnformatted": "+56323283149",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -33.0400401,
+    "lng": -71.5926502
+  },
+  "totalScore": 4.6,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJRXXAcrfgiZYR6aSGJ0lyTYI",
+  "categories": [
+    "Complejo de apartamentos"
+  ],
+  "fid": "0x9689e0b772c07545:0x824d72492786a4e9",
+  "cid": "9389286456658666729",
+  "reviewsCount": 200,
+  "imagesCount": 89,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:31:29.215Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accesibilidad": [
+      {
+        "Entrada accesible para personas en silla de ruedas": true
+      },
+      {
+        "Estacionamiento accesible para personas en silla de ruedas": true
+      }
+    ],
+    "Mascotas": [
+      {
+        "Se permiten perros": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Edificio%20Alto%20Placeres&query_place_id=ChIJRXXAcrfgiZYR6aSGJ0lyTYI",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-55.72012092097866,-67.29139961007976,9z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 6,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweppdYzso2BCl-W1eLKP9N9c-Odj-vnhgRWUqnlck6CHiGV9egmMXxQDo221VllZCozi-M308mtlUcMeHlooi1O4mZb45c5Q-T26759byybMpbfufl7fMrWx2KVLT7fpQZsX2IWGgho129lG=w408-h544-k-no",
+  "kgmid": "/g/11cmx87jwb"
+},
+{
+  "title": "Mirador Barón",
+  "description": "Escaleras y ascensores hacia un mirador popular para mirar el atardecer sobre la bahía.",
+  "price": null,
+  "categoryName": "Mirador",
+  "address": "Diego Portales 340, Valparaíso, Chile",
+  "neighborhood": null,
+  "street": "Diego Portales 340",
+  "city": "Valparaíso",
+  "postalCode": null,
+  "state": "Valparaíso",
+  "countryCode": "CL",
+  "website": "https://www.miradorbaron.cl/",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -33.0422159,
+    "lng": -71.6041204
+  },
+  "totalScore": 4.6,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJg91Ubs_giZYR0z7bAwIJF94",
+  "categories": [
+    "Mirador"
+  ],
+  "fid": "0x9689e0cf6e54dd83:0xde17090203db3ed3",
+  "cid": "16003269705143631571",
+  "reviewsCount": 984,
+  "imagesCount": 1835,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:31:29.215Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "miércoles",
+      "hours": "Abierto las 24 horas"
+    },
+    {
+      "day": "jueves",
+      "hours": "Abierto las 24 horas"
+    },
+    {
+      "day": "viernes",
+      "hours": "Abierto las 24 horas"
+    },
+    {
+      "day": "sábado",
+      "hours": "Abierto las 24 horas"
+    },
+    {
+      "day": "domingo",
+      "hours": "Abierto las 24 horas"
+    },
+    {
+      "day": "lunes",
+      "hours": "Abierto las 24 horas"
+    },
+    {
+      "day": "martes",
+      "hours": "Abierto las 24 horas"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accesibilidad": [
+      {
+        "Estacionamiento accesible para personas en silla de ruedas": false
+      }
+    ],
+    "Menores": [
+      {
+        "Ideal para ir con niños": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Mirador%20Bar%C3%B3n&query_place_id=ChIJg91Ubs_giZYR0z7bAwIJF94",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-55.72012092097866,-67.29139961007976,9z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 7,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqfGPFWm3XGYHBrL_bx6J3lKTdttd3TgZKvwpsIjsk5yWC9metVgQh8uyESsKFcVAVg9ti_q531SgjLKC3P7BsnfQQqrp85-5dDtENatw-g6BEJe7q2LohvwswiODgBWHwKMQQQ=w408-h306-k-no",
+  "kgmid": "/g/11c1nhqq80"
+},
+{
+  "title": "RentApart En Valparaíso",
+  "price": null,
+  "address": "Diego Portales 736, 2350043 Valparaíso, Chile",
+  "neighborhood": null,
+  "street": "Diego Portales 736",
+  "city": "Valparaíso",
+  "postalCode": "2350043",
+  "state": "Valparaíso",
+  "countryCode": "CL",
+  "website": "http://vistabaron.cl/",
+  "phone": "+56 9 7848 1226",
+  "phoneUnformatted": "+56978481226",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -33.0398345,
+    "lng": -71.6028372
+  },
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ5xej5GvhiZYRDAFOMQ4TPt0",
+  "categories": [],
+  "fid": "0x9689e16be4a317e7:0xdd3e130e314e010c",
+  "cid": "15942200682615800076",
+  "reviewsCount": 9,
+  "imagesCount": 11,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:31:29.215Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "miércoles",
+      "hours": "9 AM to 8 PM"
+    },
+    {
+      "day": "jueves",
+      "hours": "9 AM to 8 PM"
+    },
+    {
+      "day": "viernes",
+      "hours": "9 AM to 8 PM"
+    },
+    {
+      "day": "sábado",
+      "hours": "9 AM to 8 PM"
+    },
+    {
+      "day": "domingo",
+      "hours": "9 AM to 8 PM"
+    },
+    {
+      "day": "lunes",
+      "hours": "9 AM to 8 PM"
+    },
+    {
+      "day": "martes",
+      "hours": "9 AM to 8 PM"
+    }
+  ],
+  "additionalOpeningHours": {
+    "Horario de atención en línea": [
+      {
+        "day": "miércoles",
+        "hours": "8 a.m.–11:30 p.m."
+      },
+      {
+        "day": "jueves",
+        "hours": "8 a.m.–11:30 p.m."
+      },
+      {
+        "day": "viernes",
+        "hours": "8 a.m.–11:30 p.m."
+      },
+      {
+        "day": "sábado",
+        "hours": "8 a.m.–11:30 p.m."
+      },
+      {
+        "day": "domingo",
+        "hours": "8 a.m.–11:30 p.m."
+      },
+      {
+        "day": "lunes",
+        "hours": "8 a.m.–11:30 p.m."
+      },
+      {
+        "day": "martes",
+        "hours": "8 a.m.–11:30 p.m."
+      }
+    ]
+  },
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=RentApart%20En%20Valpara%C3%ADso&query_place_id=ChIJ5xej5GvhiZYRDAFOMQ4TPt0",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-55.72012092097866,-67.29139961007976,9z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 8,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMwzVQaDoPC6WKvExgWwsgqXUt1KvtndzeauIbd=w408-h301-k-no",
+  "kgmid": "/g/11gwgrvhlt"
+},
+{
+  "title": "Condominio Bahía de Valparaíso",
+  "price": null,
+  "categoryName": "Edificio de apartamentos",
+  "address": "Los Pinos 937, 2351051 Valparaíso, Chile",
+  "neighborhood": null,
+  "street": "Los Pinos 937",
+  "city": "Valparaíso",
+  "postalCode": null,
+  "state": "Valparaíso",
+  "countryCode": "CL",
+  "phone": "+56 9 5669 5504",
+  "phoneUnformatted": "+56956695504",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -33.054103,
+    "lng": -71.5922987
+  },
+  "totalScore": 4.7,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJRbDgr5XgiZYR-3osPf35F0A",
+  "categories": [
+    "Edificio de apartamentos"
+  ],
+  "fid": "0x9689e095afe0b045:0x4017f9fd3d2c7afb",
+  "cid": "4618434808940100347",
+  "reviewsCount": 14,
+  "imagesCount": 16,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:31:29.216Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "miércoles",
+      "hours": "10 AM to 7 PM"
+    },
+    {
+      "day": "jueves",
+      "hours": "10 AM to 7 PM"
+    },
+    {
+      "day": "viernes",
+      "hours": "10 AM to 7 PM"
+    },
+    {
+      "day": "sábado",
+      "hours": "10 AM to 7 PM"
+    },
+    {
+      "day": "domingo",
+      "hours": "10 AM to 7 PM"
+    },
+    {
+      "day": "lunes",
+      "hours": "10 AM to 7 PM"
+    },
+    {
+      "day": "martes",
+      "hours": "10 AM to 7 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accesibilidad": [
+      {
+        "Entrada accesible para personas en silla de ruedas": true
+      },
+      {
+        "Estacionamiento accesible para personas en silla de ruedas": true
+      }
+    ],
+    "Servicios": [
+      {
+        "Jacuzzi": true
+      },
+      {
+        "Piscina": true
+      }
+    ],
+    "Mascotas": [
+      {
+        "Se permiten perros": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Condominio%20Bah%C3%ADa%20de%20Valpara%C3%ADso&query_place_id=ChIJRbDgr5XgiZYR-3osPf35F0A",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-55.72012092097866,-67.29139961007976,9z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 9,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqi2ELbIMylm5ik4WZ4K4aI4xJHhtg9IDyOpAOKbnApLQ1POIBwXkXnJ4YruO9DDmmFOftKPRADUHPM2lkooZvQ_q1cZt72owR3-WzhTdnBWQns3wEP_OAhLrI4OjhTvZlIO3sL3CUP1aI=w426-h240-k-no",
+  "kgmid": "/g/11g6w9_sfv"
+},
+{
+  "title": "Cecilia Olga Molina Cristallini",
+  "price": null,
+  "categoryName": "Agencia de bienes inmuebles comerciales",
+  "address": "Uruguay 385, Of 37, 2363350 Valparaíso, Chile",
+  "neighborhood": null,
+  "street": "Uruguay 385, Of 37",
+  "city": "Valparaíso",
+  "postalCode": null,
+  "state": "Valparaíso",
+  "countryCode": "CL",
+  "website": "http://www.asvicorp.cl/",
+  "phone": "+56 32 259 4152",
+  "phoneUnformatted": "+56322594152",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -33.0470013,
+    "lng": -71.6082681
+  },
+  "totalScore": 4.9,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJNU22NNvgiZYR4qBILH9E36g",
+  "categories": [
+    "Agencia de bienes inmuebles comerciales"
+  ],
+  "fid": "0x9689e0db34b64d35:0xa8df447f2c48a0e2",
+  "cid": "12168520031172862178",
+  "reviewsCount": 7,
+  "imagesCount": 3,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:31:29.216Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "miércoles",
+      "hours": "9 AM to 6 PM"
+    },
+    {
+      "day": "jueves",
+      "hours": "9 AM to 6 PM"
+    },
+    {
+      "day": "viernes",
+      "hours": "9 AM to 6 PM"
+    },
+    {
+      "day": "sábado",
+      "hours": "Cerrado"
+    },
+    {
+      "day": "domingo",
+      "hours": "Cerrado"
+    },
+    {
+      "day": "lunes",
+      "hours": "9 AM to 6 PM"
+    },
+    {
+      "day": "martes",
+      "hours": "9 AM to 6 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Cecilia%20Olga%20Molina%20Cristallini&query_place_id=ChIJNU22NNvgiZYR4qBILH9E36g",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-55.72012092097866,-67.29139961007976,9z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 10,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerXAwb-6FmOdLkm3mW61cA-xzmLQqUvWXO_qmW5EPM2qyIYPOtgi6bI0FbEESynuFhc6x6FnffOpGU0p5S5uim0UgorQf6FGezbzzSmfAO-o-5XIkD_pxg7Izs2rUg_kbm7TKvm=w458-h240-k-no",
+  "kgmid": "/g/11byl9pwq3"
+},
+{
+  "title": "Leeson Propiedades",
+  "price": null,
+  "categoryName": "Agencia inmobiliaria",
+  "address": "Cerro Alegre, Valparaíso, Chile",
+  "neighborhood": null,
+  "street": "Cerro Alegre",
+  "city": "Valparaíso",
+  "postalCode": null,
+  "state": "Valparaíso",
+  "countryCode": "CL",
+  "website": "http://www.leesonpropiedades.cl/",
+  "phone": "+56 9 9332 3638",
+  "phoneUnformatted": "+56993323638",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -33.0394521,
+    "lng": -71.6292891
+  },
+  "totalScore": 4.1,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJM7MhMyzhiZYRnRZVJcrCxzs",
+  "categories": [
+    "Agencia inmobiliaria"
+  ],
+  "fid": "0x9689e12c3321b333:0x3bc7c2ca2555169d",
+  "cid": "4307625742068684445",
+  "reviewsCount": 17,
+  "imagesCount": 2,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:31:29.216Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "miércoles",
+      "hours": "10 AM to 7 PM"
+    },
+    {
+      "day": "jueves",
+      "hours": "10 AM to 7 PM"
+    },
+    {
+      "day": "viernes",
+      "hours": "10 AM to 7 PM"
+    },
+    {
+      "day": "sábado",
+      "hours": "Cerrado"
+    },
+    {
+      "day": "domingo",
+      "hours": "Cerrado"
+    },
+    {
+      "day": "lunes",
+      "hours": "10 AM to 7 PM"
+    },
+    {
+      "day": "martes",
+      "hours": "10 AM to 7 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Información proporcionada por la empresa": [
+      {
+        "Se identifica como mujer empresaria": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Leeson%20Propiedades&query_place_id=ChIJM7MhMyzhiZYRnRZVJcrCxzs",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-55.72012092097866,-67.29139961007976,9z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 11,
+  "isAdvertisement": false,
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Jo3HCOFY_RYe4USaPQy_zA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=139.27118&pitch=0&thumbfov=100",
+  "kgmid": "/g/11fy9q2y_4"
+},
+{
+  "title": "Delpiso Gestión Inmobiliaria",
+  "price": null,
+  "categoryName": "Agencia inmobiliaria",
+  "address": "Cochrane 639, Of. 112, 2361801 Valparaíso, Chile",
+  "neighborhood": null,
+  "street": "Cochrane 639, Of. 112",
+  "city": "Valparaíso",
+  "postalCode": "2361801",
+  "state": "Valparaíso",
+  "countryCode": "CL",
+  "website": "http://www.delpiso.cl/",
+  "phone": "+56 9 9454 7662",
+  "phoneUnformatted": "+56994547662",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -33.0390226,
+    "lng": -71.6283828
+  },
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJzY669I3hiZYRDyG6YkDgUPU",
+  "categories": [
+    "Agencia inmobiliaria"
+  ],
+  "fid": "0x9689e18df4ba8ecd:0xf550e04062ba210f",
+  "cid": "17676875104568090895",
+  "reviewsCount": 5,
+  "imagesCount": 2,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:31:29.216Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "miércoles",
+      "hours": "9 AM to 7 PM"
+    },
+    {
+      "day": "jueves",
+      "hours": "9 AM to 7 PM"
+    },
+    {
+      "day": "viernes",
+      "hours": "9 AM to 7 PM"
+    },
+    {
+      "day": "sábado",
+      "hours": "9 AM to 7 PM"
+    },
+    {
+      "day": "domingo",
+      "hours": "9 AM to 7 PM"
+    },
+    {
+      "day": "lunes",
+      "hours": "9 AM to 7 PM"
+    },
+    {
+      "day": "martes",
+      "hours": "9 AM to 7 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Delpiso%20Gesti%C3%B3n%20Inmobiliaria&query_place_id=ChIJzY669I3hiZYRDyG6YkDgUPU",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-55.72012092097866,-67.29139961007976,9z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 12,
+  "isAdvertisement": false,
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=87r6_MXLXPDOY9DORuibhA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=33.57903&pitch=0&thumbfov=100",
+  "kgmid": "/g/11r6l_fjrh"
+},
+{
+  "title": "Propidades Jeanneth",
+  "price": null,
+  "categoryName": "Agencia inmobiliaria",
+  "address": "Condell 1554, OF .4A y 4B, 2350000 Valparaíso, Chile",
+  "neighborhood": null,
+  "street": "Condell 1554, OF .4A y 4B",
+  "city": "Valparaíso",
+  "postalCode": "2350000",
+  "state": "Valparaíso",
+  "countryCode": "CL",
+  "phone": "+56 32 221 2774",
+  "phoneUnformatted": "+56322212774",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -33.0464951,
+    "lng": -71.6210811
+  },
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ91B46yfhiZYRZaYClsMQvJ4",
+  "categories": [
+    "Agencia inmobiliaria"
+  ],
+  "fid": "0x9689e127eb7850f7:0x9ebc10c39602a665",
+  "cid": "11438035585835640421",
+  "reviewsCount": 2,
+  "imagesCount": 3,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:31:29.216Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "miércoles",
+      "hours": "10:30 AM to 6 PM"
+    },
+    {
+      "day": "jueves",
+      "hours": "10:30 AM to 6 PM"
+    },
+    {
+      "day": "viernes",
+      "hours": "10:30 AM to 6 PM"
+    },
+    {
+      "day": "sábado",
+      "hours": "Cerrado"
+    },
+    {
+      "day": "domingo",
+      "hours": "Cerrado"
+    },
+    {
+      "day": "lunes",
+      "hours": "10:30 AM to 6 PM"
+    },
+    {
+      "day": "martes",
+      "hours": "10:30 AM to 6 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Propidades%20Jeanneth&query_place_id=ChIJ91B46yfhiZYRZaYClsMQvJ4",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-55.72012092097866,-67.29139961007976,9z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 13,
+  "isAdvertisement": false,
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=xmAJcigC-mD_ycA-F1mT6Q&cb_client=search.gws-prod.gps&w=408&h=240&yaw=215.8842&pitch=0&thumbfov=100",
+  "kgmid": "/g/1v8l0v1t"
+},
+{
+  "title": "Cerro San Juan de Dios",
+  "price": null,
+  "categoryName": "Lugar de interés histórico",
+  "address": "San Juan de Dios 656-716, 2380551 Valparaíso, Chile",
+  "neighborhood": null,
+  "street": "San Juan de Dios 656-716",
+  "city": "Valparaíso",
+  "postalCode": null,
+  "state": "Valparaíso",
+  "countryCode": "CL",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -33.0499555,
+    "lng": -71.6267307
+  },
+  "totalScore": 4.5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJTbb3OYDhiZYR1TD3ze6GU3U",
+  "categories": [
+    "Lugar de interés histórico"
+  ],
+  "fid": "0x9689e18039f7b64d:0x755386eecdf730d5",
+  "cid": "8454249285720420565",
+  "reviewsCount": 110,
+  "imagesCount": 44,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:31:29.217Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accesibilidad": [
+      {
+        "Entrada accesible para personas en silla de ruedas": false
+      },
+      {
+        "Estacionamiento accesible para personas en silla de ruedas": false
+      }
+    ],
+    "Menores": [
+      {
+        "Ideal para ir con niños": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Cerro%20San%20Juan%20de%20Dios&query_place_id=ChIJTbb3OYDhiZYR1TD3ze6GU3U",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-55.72012092097866,-67.29139961007976,9z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 14,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweq8wsbzP9X_1L0HAmETgMBC46og8iwPvDjfItUhKlHt77TORcY8bfY6sM4SDFnTiMWDRJGbnZzFoLO3kFlrYWzxSkUNbGI1RI4wYCO7EPr6fWrbDkUtA-2mJS2WLqyS5K29waQ8=w408-h544-k-no",
+  "kgmid": "/g/11h0t8tq73"
+},
+{
+  "title": "Mercado Cardonal",
+  "description": "Mercado histórico concurrido donde se ofrecen frutas y verduras locales, además de una cafetería.",
+  "price": null,
+  "categoryName": "Agencia inmobiliaria",
+  "address": "Uruguay 125, Valparaíso, Chile",
+  "neighborhood": null,
+  "street": "Uruguay 125",
+  "city": "Valparaíso",
+  "postalCode": null,
+  "state": "Valparaíso",
+  "countryCode": "CL",
+  "website": "http://www.mercadocardonal.com/",
+  "phone": "+56 32 221 0066",
+  "phoneUnformatted": "+56322210066",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -33.0452344,
+    "lng": -71.6075057
+  },
+  "totalScore": 4,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJBX9MNcXgiZYRLFQAsIBZIgY",
+  "categories": [
+    "Agencia inmobiliaria",
+    "Mercado"
+  ],
+  "fid": "0x9689e0c5354c7f05:0x6225980b000542c",
+  "cid": "442014122679227436",
+  "reviewsCount": 9976,
+  "imagesCount": 5651,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:31:29.217Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "miércoles",
+      "hours": "7:30 AM to 5:30 PM"
+    },
+    {
+      "day": "jueves",
+      "hours": "7:30 AM to 5:30 PM"
+    },
+    {
+      "day": "viernes",
+      "hours": "7:30 AM to 5:30 PM"
+    },
+    {
+      "day": "sábado",
+      "hours": "7:30 AM to 5:30 PM"
+    },
+    {
+      "day": "domingo",
+      "hours": "7:30 AM to 5:30 PM"
+    },
+    {
+      "day": "lunes",
+      "hours": "7:30 AM to 5:30 PM"
+    },
+    {
+      "day": "martes",
+      "hours": "7:30 AM to 5:30 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accesibilidad": [
+      {
+        "Estacionamiento accesible para personas en silla de ruedas": false
+      }
+    ],
+    "Servicios": [
+      {
+        "Sanitario": true
+      }
+    ],
+    "Pagos": [
+      {
+        "Pagos móviles mediante NFC": true
+      },
+      {
+        "Tarjetas de crédito": true
+      },
+      {
+        "Tarjetas de débito": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Mercado%20Cardonal&query_place_id=ChIJBX9MNcXgiZYRLFQAsIBZIgY",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-55.72012092097866,-67.29139961007976,9z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 15,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoRx2o30O65Y-DkZGB64T3tZ7lZoLazLl92yvD6QkVCjsDJ4R8-s6aTLIZv-UF8oDnMbVUIqMEoEXQSQrS7y8cLB388mdqpvwbNdEc1jumXKJlkBZhSCnLjVWbkCMt_xG2QIEOy=w426-h240-k-no",
+  "kgmid": "/g/1229byfx"
+},
+{
+  "title": "Constantino Propiedades",
+  "price": null,
+  "categoryName": "Agencia inmobiliaria",
+  "address": "Van Buren 2895, 2340252 Valparaíso, Chile",
+  "neighborhood": null,
+  "street": "Van Buren 2895",
+  "city": "Valparaíso",
+  "postalCode": null,
+  "state": "Valparaíso",
+  "countryCode": "CL",
+  "phone": "+56 9 9541 5317",
+  "phoneUnformatted": "+56995415317",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -33.051526,
+    "lng": -71.6062676
+  },
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJq9w14sLgiZYR8G2_zPcig30",
+  "categories": [
+    "Agencia inmobiliaria",
+    "Administrador de la propiedad",
+    "Empresa de administración de propiedades",
+    "Tasador inmobiliario"
+  ],
+  "fid": "0x9689e0c2e235dcab:0x7d8322f7ccbf6df0",
+  "cid": "9044110924377452016",
+  "reviewsCount": 7,
+  "imagesCount": 6,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:31:29.217Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "miércoles",
+      "hours": "9 AM to 7 PM"
+    },
+    {
+      "day": "jueves",
+      "hours": "9 AM to 7 PM"
+    },
+    {
+      "day": "viernes",
+      "hours": "9 AM to 7 PM"
+    },
+    {
+      "day": "sábado",
+      "hours": "9 AM to 2 PM"
+    },
+    {
+      "day": "domingo",
+      "hours": "Cerrado"
+    },
+    {
+      "day": "lunes",
+      "hours": "9 AM to 7 PM"
+    },
+    {
+      "day": "martes",
+      "hours": "9 AM to 7 PM"
+    }
+  ],
+  "additionalOpeningHours": {
+    "Horario de atención en línea": [
+      {
+        "day": "miércoles",
+        "hours": "9 a.m.–5 p.m."
+      },
+      {
+        "day": "jueves",
+        "hours": "9 a.m.–8:30 p.m."
+      },
+      {
+        "day": "viernes",
+        "hours": "9 a.m.–8:30 p.m."
+      },
+      {
+        "day": "sábado",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "domingo",
+        "hours": "9 a.m.–9:30 p.m."
+      },
+      {
+        "day": "lunes",
+        "hours": "9 a.m.–5 p.m."
+      },
+      {
+        "day": "martes",
+        "hours": "9 a.m.–5 p.m."
+      }
+    ]
+  },
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Información proporcionada por la empresa": [
+      {
+        "Se identifica como mujer empresaria": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Constantino%20Propiedades&query_place_id=ChIJq9w14sLgiZYR8G2_zPcig30",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-55.72012092097866,-67.29139961007976,9z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 16,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO3adEBEFp-e_ruxfT8XBvS1lDA3wcporuONsSd=w408-h306-k-no",
+  "kgmid": "/g/11hd9rxq_q"
+},
+{
+  "title": "Le Fame Propiedades",
+  "price": null,
+  "categoryName": "Liquidador de bienes inmuebles",
+  "address": "Urriola 396, of. B, 2340000 Valparaíso, Chile",
+  "neighborhood": null,
+  "street": "Urriola 396, of. B",
+  "city": "Valparaíso",
+  "postalCode": "2340000",
+  "state": "Valparaíso",
+  "countryCode": "CL",
+  "website": "http://www.lefamechile.com/",
+  "phone": "+56 32 336 0008",
+  "phoneUnformatted": "+56323360008",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -33.0407534,
+    "lng": -71.6280157
+  },
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJWd1aLyzhiZYREfM9v0z_voc",
+  "categories": [
+    "Liquidador de bienes inmuebles"
+  ],
+  "fid": "0x9689e12c2f5add59:0x87beff4cbf3df311",
+  "cid": "9781536145786401553",
+  "reviewsCount": null,
+  "imagesCount": 87,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:31:29.217Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "miércoles",
+      "hours": "10 AM to 8 PM"
+    },
+    {
+      "day": "jueves",
+      "hours": "10 AM to 8 PM"
+    },
+    {
+      "day": "viernes",
+      "hours": "10 AM to 7 PM"
+    },
+    {
+      "day": "sábado",
+      "hours": "10 AM to 7 PM"
+    },
+    {
+      "day": "domingo",
+      "hours": "Cerrado"
+    },
+    {
+      "day": "lunes",
+      "hours": "9 AM to 8 PM"
+    },
+    {
+      "day": "martes",
+      "hours": "10 AM to 8 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Opciones de servicio": [
+      {
+        "Citas en línea": true
+      },
+      {
+        "Servicios en el lugar": false
+      }
+    ],
+    "Accesibilidad": [
+      {
+        "Espacio accesible para personas en silla de ruedas": false
+      },
+      {
+        "Sanitarios accesibles para personas en silla de ruedas": false
+      }
+    ],
+    "Planificación": [
+      {
+        "Se requiere una cita": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Le%20Fame%20Propiedades&query_place_id=ChIJWd1aLyzhiZYREfM9v0z_voc",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-55.72012092097866,-67.29139961007976,9z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 17,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPHyYz9Q5ToNagdPUwlw43LKEeiO_XMRj2gfaME=w408-h306-k-no",
+  "kgmid": "/g/11cn9qb2xf"
+},
+{
+  "title": "Edificio Alto Paraiso",
+  "price": null,
+  "categoryName": "Edificio de apartamentos",
+  "address": "Virginio Arias 65, 2352337 Valparaíso, Chile",
+  "neighborhood": null,
+  "street": "Virginio Arias 65",
+  "city": "Valparaíso",
+  "postalCode": null,
+  "state": "Valparaíso",
+  "countryCode": "CL",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -33.049353,
+    "lng": -71.5968537
+  },
+  "totalScore": 4.6,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJcwd5Cs_hiZYRmPXoNF2RLBY",
+  "categories": [
+    "Edificio de apartamentos"
+  ],
+  "fid": "0x9689e1cf0a790773:0x162c915d34e8f598",
+  "cid": "1597811797315351960",
+  "reviewsCount": 11,
+  "imagesCount": 22,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:31:29.217Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accesibilidad": [
+      {
+        "Entrada accesible para personas en silla de ruedas": true
+      },
+      {
+        "Estacionamiento accesible para personas en silla de ruedas": true
+      }
+    ],
+    "Servicios": [
+      {
+        "Piscina": true
+      }
+    ],
+    "Mascotas": [
+      {
+        "Se permiten perros": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Edificio%20Alto%20Paraiso&query_place_id=ChIJcwd5Cs_hiZYRmPXoNF2RLBY",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-55.72012092097866,-67.29139961007976,9z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 18,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqqg4XyQ_ZQTtjxXP_bWJR2ymY7P7dsCQAXPVmmRc59_Vq9yBbCgFcqxJt80mgVEGLOeJNiawy7-NY0sXlj7IdRufTQOSB0sr0z_nEhpxfW1xm6TC-YTxo6qKLRqi7FQV3y_Rli=w408-h306-k-no",
+  "kgmid": "/g/11f6ljp375"
+},
+{
+  "title": "AGINVA Agencia Inmobiliaria Valparaiso",
+  "price": null,
+  "categoryName": "Agencia inmobiliaria",
+  "address": "Bellavista 168, 2362656 Valparaíso, Chile",
+  "neighborhood": null,
+  "street": "Bellavista 168",
+  "city": "Valparaíso",
+  "postalCode": null,
+  "state": "Valparaíso",
+  "countryCode": "CL",
+  "website": "http://www.aginva.cl/",
+  "phone": "+56 32 254 5710",
+  "phoneUnformatted": "+56322545710",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -33.0433599,
+    "lng": -71.62303
+  },
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJPTan-CjhiZYR_jQ3RIGCt9w",
+  "categories": [
+    "Agencia inmobiliaria"
+  ],
+  "fid": "0x9689e128f8a7363d:0xdcb78281443734fe",
+  "cid": "15904324100789056766",
+  "reviewsCount": 2,
+  "imagesCount": 1,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:31:29.217Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=AGINVA%20Agencia%20Inmobiliaria%20Valparaiso&query_place_id=ChIJPTan-CjhiZYR_jQ3RIGCt9w",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-55.72012092097866,-67.29139961007976,9z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 19,
+  "isAdvertisement": false,
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=e9ZthRWVq1lB3DdwroW4qQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=85.4983&pitch=0&thumbfov=100",
+  "kgmid": "/g/11hyt0zq7l"
+},
+{
+  "title": "Alfalfares",
+  "price": null,
+  "categoryName": "Agencia de alquiler de cabañas",
+  "address": "n°154, Parcela 32, Valparaíso, Quillota, Valparaíso, Chile",
+  "neighborhood": null,
+  "street": "n°154, Parcela 32",
+  "city": "Valparaíso, Quillota",
+  "postalCode": null,
+  "state": "Valparaíso",
+  "countryCode": "CL",
+  "phone": "+56 9 8967 9991",
+  "phoneUnformatted": "+56989679991",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -33.0450582,
+    "lng": -71.6042845
+  },
+  "totalScore": 4.4,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJQUUSo5jKkZYR6kOH16CKopw",
+  "categories": [
+    "Agencia de alquiler de cabañas"
+  ],
+  "fid": "0x9691ca98a3124541:0x9ca28aa0d78743ea",
+  "cid": "11286736039559250922",
+  "reviewsCount": 108,
+  "imagesCount": 61,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:31:29.217Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "miércoles",
+      "hours": "8 AM to 6 PM"
+    },
+    {
+      "day": "jueves",
+      "hours": "8 AM to 6 PM"
+    },
+    {
+      "day": "viernes",
+      "hours": "8 AM to 6 PM"
+    },
+    {
+      "day": "sábado",
+      "hours": "8 AM to 6 PM"
+    },
+    {
+      "day": "domingo",
+      "hours": "8 AM to 6 PM"
+    },
+    {
+      "day": "lunes",
+      "hours": "8 AM to 6 PM"
+    },
+    {
+      "day": "martes",
+      "hours": "8 AM to 6 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Alfalfares&query_place_id=ChIJQUUSo5jKkZYR6kOH16CKopw",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-55.72012092097866,-67.29139961007976,9z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 20,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqS-1Z68zvuwHrhUT1c11uDpiutXgn3rcgFDSDmkmdNArPxqgytNv8GM2yPOt44IdWLM3RJM8DiXi40-ndUTqm7QDBSIngw9zol_gXwqGl2yyJo7LrXTRfw50YY2Fk4jWRY_0uk=w408-h306-k-no",
+  "kgmid": "/g/11csqbw227"
+},
+{
+  "title": "Gloria Propiedades",
+  "price": null,
+  "categoryName": "Agencia inmobiliaria",
+  "address": "Av. Fundadores 717, 2372528 Curauma, Valparaíso, Chile",
+  "neighborhood": null,
+  "street": "Av. Fundadores 717",
+  "city": "Curauma, Valparaíso",
+  "postalCode": null,
+  "state": "Valparaíso",
+  "countryCode": "CL",
+  "website": "https://www.gloriapropiedades.cl/",
+  "phone": "+56 9 5406 3286",
+  "phoneUnformatted": "+56954063286",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -33.1227797,
+    "lng": -71.568974
+  },
+  "totalScore": 4.8,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ8xYnRil1YpYRNObi6kpvIX4",
+  "categories": [
+    "Agencia inmobiliaria"
+  ],
+  "fid": "0x96627529462716f3:0x7e216f4aeae2e634",
+  "cid": "9088667890569373236",
+  "reviewsCount": 63,
+  "imagesCount": 4,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:31:29.283Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "miércoles",
+      "hours": "9 AM to 6 PM"
+    },
+    {
+      "day": "jueves",
+      "hours": "9 AM to 6 PM"
+    },
+    {
+      "day": "viernes",
+      "hours": "9 AM to 6 PM"
+    },
+    {
+      "day": "sábado",
+      "hours": "9 AM to 6 PM"
+    },
+    {
+      "day": "domingo",
+      "hours": "9 AM to 6 PM"
+    },
+    {
+      "day": "lunes",
+      "hours": "9 AM to 6 PM"
+    },
+    {
+      "day": "martes",
+      "hours": "9 AM to 6 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Opciones de servicio": [
+      {
+        "Servicios en el lugar": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Gloria%20Propiedades&query_place_id=ChIJ8xYnRil1YpYRNObi6kpvIX4",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-26.2873028303945,-105.4313865414673,13z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 2,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerei0eIRGDhgmsTgTdIiOJxpMyhCiohxUAdoLbSMOYZlIX41OiNtBPbJrURz0AER3gLOahZRPV6M1FXSqWzKnr83bThnjVBavdZxaXCUjhrgEu87Y__Vsqdti2sC4V3cazcEHI_Vg=w449-h240-k-no",
+  "kgmid": "/g/11kjpkvw7f"
+},
+{
+  "title": "Edificio Valparaiso Park",
+  "price": null,
+  "categoryName": "Edificio de apartamentos",
+  "address": "Gral. Cruz 151, Valparaíso, Chile",
+  "neighborhood": null,
+  "street": "Gral. Cruz 151",
+  "city": "Valparaíso",
+  "postalCode": null,
+  "state": "Valparaíso",
+  "countryCode": "CL",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -33.0453633,
+    "lng": -71.6128445
+  },
+  "totalScore": 4.5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJLb1IEdrgiZYRI3iSWePKELw",
+  "categories": [
+    "Edificio de apartamentos"
+  ],
+  "fid": "0x9689e0da1148bd2d:0xbc10cae359927823",
+  "cid": "13551554356566980643",
+  "reviewsCount": 11,
+  "imagesCount": 28,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:31:29.284Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accesibilidad": [
+      {
+        "Entrada accesible para personas en silla de ruedas": true
+      },
+      {
+        "Estacionamiento accesible para personas en silla de ruedas": true
+      }
+    ],
+    "Mascotas": [
+      {
+        "Se permiten perros": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Edificio%20Valparaiso%20Park&query_place_id=ChIJLb1IEdrgiZYRI3iSWePKELw",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-26.2873028303945,-105.4313865414673,13z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 19,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepb2ZrLPvfJEmBaWQfuxr3FEyTO-eWbRVrNKI-LsfjMpGv9muQ9cJQx4nI5tEv8q4fTvbcyEJLXliXk0XIJcWW7LPGjPc5LSXxi2WC7z7a_hIIOsfyaey7YNqjZJHtlLC5YKZq0Ng=w408-h408-k-no",
+  "kgmid": "/g/11bzwpcl5m"
+},
+{
+  "title": "Ancora",
+  "price": null,
+  "categoryName": "Complejo de apartamentos",
+  "address": "Av. Brasil 2608, 2362835 Valparaíso, Chile",
+  "neighborhood": null,
+  "street": "Av. Brasil 2608",
+  "city": "Valparaíso",
+  "postalCode": "2362835",
+  "state": "Valparaíso",
+  "countryCode": "CL",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -33.04524,
+    "lng": -71.60867
+  },
+  "totalScore": 4.5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJDbul4k7hiZYRcoj8zpKkges",
+  "categories": [
+    "Complejo de apartamentos"
+  ],
+  "fid": "0x9689e14ee2a5bb0d:0xeb81a492cefc8872",
+  "cid": "16970025821353576562",
+  "reviewsCount": 2,
+  "imagesCount": 8,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:31:29.284Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Ancora&query_place_id=ChIJDbul4k7hiZYRcoj8zpKkges",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-26.2873028303945,-105.4313865414673,13z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 20,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwep9IghDoOXvsiNy0-vDaTi_2n05MumCxyEZDcOTlPtPytM1qg6HKjaT7uBnRFY6wBhZxbJr8IyHeiNZy_kAorO4X84PD5hb_V8ybjM4E3KpwZ7dHWTC5XidhWAQky5chbEGKAbVgLoo-LOI=w408-h408-k-no",
+  "kgmid": "/g/11ss5c4_41"
+},
+{
+  "title": "Propiedades Patricia Sepulveda",
+  "price": null,
+  "categoryName": "Agencia inmobiliaria",
+  "address": "Urriola 692 - Cerro Concepcion, 2370880 Valparaíso, Chile",
+  "neighborhood": null,
+  "street": "Urriola 692 - Cerro Concepcion",
+  "city": "Valparaíso",
+  "postalCode": "2370880",
+  "state": "Valparaíso",
+  "countryCode": "CL",
+  "website": "http://www.patriciasepulveda.cl/",
+  "phone": "+56 32 223 6815",
+  "phoneUnformatted": "+56322236815",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -33.043196,
+    "lng": -71.627962
+  },
+  "totalScore": 3.9,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJrw8xbi7hiZYRkOky0OJdyiU",
+  "categories": [
+    "Agencia inmobiliaria"
+  ],
+  "fid": "0x9689e12e6e310faf:0x25ca5de2d032e990",
+  "cid": "2723092153435875728",
+  "reviewsCount": 20,
+  "imagesCount": 1,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:31:35.272Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accesibilidad": [
+      {
+        "Estacionamiento accesible para personas en silla de ruedas": false
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Propiedades%20Patricia%20Sepulveda&query_place_id=ChIJrw8xbi7hiZYRkOky0OJdyiU",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-33.430964130479275,-78.58616329607237,12z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 18,
+  "isAdvertisement": false,
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=x0vBkXgKooOfShw51RZRIA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=296.20132&pitch=0&thumbfov=100",
+  "kgmid": "/g/1tmgdn5j"
+},
+{
+  "title": "Inmobiliaria Aconcagua - San Pablo de Curauma",
+  "price": null,
+  "categoryName": "Agencia inmobiliaria",
+  "address": "Av. Lomas de la Luz 413, 2373301 Valparaíso, Chile",
+  "neighborhood": null,
+  "street": "Av. Lomas de la Luz 413",
+  "city": "Valparaíso",
+  "postalCode": null,
+  "state": "Valparaíso",
+  "countryCode": "CL",
+  "website": "https://www.iaconcagua.com/",
+  "phone": "+56 9 9158 5000",
+  "phoneUnformatted": "+56991585000",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -33.1335233,
+    "lng": -71.5678191
+  },
+  "totalScore": 4.3,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJMQhWr1J1YpYRNAP4iLLxklo",
+  "categories": [
+    "Agencia inmobiliaria"
+  ],
+  "fid": "0x96627552af560831:0x5a92f1b288f80334",
+  "cid": "6526544559117697844",
+  "reviewsCount": 35,
+  "imagesCount": 17,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:31:35.272Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "miércoles",
+      "hours": "10 AM to 7 PM"
+    },
+    {
+      "day": "jueves",
+      "hours": "10 AM to 7 PM"
+    },
+    {
+      "day": "viernes",
+      "hours": "10 AM to 7 PM"
+    },
+    {
+      "day": "sábado",
+      "hours": "10 AM to 7 PM"
+    },
+    {
+      "day": "domingo",
+      "hours": "Cerrado"
+    },
+    {
+      "day": "lunes",
+      "hours": "10 AM to 7 PM"
+    },
+    {
+      "day": "martes",
+      "hours": "10 AM to 7 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Inmobiliaria%20Aconcagua%20-%20San%20Pablo%20de%20Curauma&query_place_id=ChIJMQhWr1J1YpYRNAP4iLLxklo",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-33.430964130479275,-78.58616329607237,12z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 19,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqnMW4FraxUay2zQw6uuk9C7Y_jeqtz4m4U_CpNERDgt5M_afKcUES-VzeG63OHaOP9omVX0pZKjY8tJnXHCsbKIUmxSsU5IGKYo7IOgoG5o_iw8Q-ubCHk35M1XZDnsEedh6HL=w426-h240-k-no",
+  "kgmid": "/g/11b5wqtjrr"
+},
+{
+  "title": "Raices de Santo Domingo - Acceso Principal",
+  "price": null,
+  "address": "Santo Domingo, Valparaíso, Chile",
+  "neighborhood": null,
+  "street": null,
+  "city": "Santo Domingo",
+  "postalCode": null,
+  "state": "Valparaíso",
+  "countryCode": "CL",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -33.8923261,
+    "lng": -71.747168
+  },
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJnabuEADNY5YRjlgpOg916D0",
+  "categories": [],
+  "fid": "0x9663cd0010eea69d:0x3de8750f3a29588e",
+  "cid": "4460944139171223694",
+  "reviewsCount": null,
+  "imagesCount": null,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:31:39.341Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Raices%20de%20Santo%20Domingo%20-%20Acceso%20Principal&query_place_id=ChIJnabuEADNY5YRjlgpOg916D0",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-34.74079328655792,-71.0638862,9z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 1,
+  "isAdvertisement": false,
+  "kgmid": "/g/11yhx5b3w6"
+},
+{
+  "title": "Horizonte Del Mar",
+  "price": null,
+  "categoryName": "Casa rural",
+  "address": "Santo Domingo, Valparaíso, Chile",
+  "neighborhood": null,
+  "street": null,
+  "city": "Santo Domingo",
+  "postalCode": null,
+  "state": "Valparaíso",
+  "countryCode": "CL",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -33.8921086,
+    "lng": -71.7628484
+  },
+  "totalScore": 4.5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJYbFTmuHTY5YRnLAgTKHq3-w",
+  "categories": [
+    "Casa rural"
+  ],
+  "fid": "0x9663d3e19a53b161:0xecdfeaa14c20b09c",
+  "cid": "17068619091245314204",
+  "reviewsCount": 6,
+  "imagesCount": 7,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:31:39.341Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accesibilidad": [
+      {
+        "Estacionamiento accesible para personas en silla de ruedas": false
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Horizonte%20Del%20Mar&query_place_id=ChIJYbFTmuHTY5YRnLAgTKHq3-w",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-34.74079328655792,-71.0638862,9z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 2,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoEscxFkU0yXlcmlRocNJYVSvLECuUur8tOdKnY7nCVj2u7fvrniujQsTuiv9lZYLgzgkuqV8PGa4Uxl_fTOisVjTBcK-PCj6lCMBOPMu3E0Zpe0-v7udhJRpGgYS299q7iuDV006eUuQ0=w408-h906-k-no",
+  "kgmid": "/g/11gr2tzngb"
+},
+{
+  "title": "Raices de Santo Domingo",
+  "price": null,
+  "categoryName": "Urbanización",
+  "address": "4743+F4, Santo Domingo, Valparaíso, Chile",
+  "neighborhood": null,
+  "street": "4743+F4",
+  "city": "Santo Domingo",
+  "postalCode": null,
+  "state": "Valparaíso",
+  "countryCode": "CL",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -33.8937551,
+    "lng": -71.7471533
+  },
+  "totalScore": 3,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJS6v3VwDNY5YRMXZVLx6bEhs",
+  "categories": [
+    "Urbanización"
+  ],
+  "fid": "0x9663cd0057f7ab4b:0x1b129b1e2f557631",
+  "cid": "1950792142550300209",
+  "reviewsCount": 1,
+  "imagesCount": 1,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:31:39.341Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Raices%20de%20Santo%20Domingo&query_place_id=ChIJS6v3VwDNY5YRMXZVLx6bEhs",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-34.74079328655792,-71.0638862,9z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 3,
+  "isAdvertisement": false,
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=qqa2vq8kGUAqGSdeKYLo5w&cb_client=search.gws-prod.gps&w=408&h=240&yaw=345.4771&pitch=0&thumbfov=100",
+  "kgmid": "/g/11vsrvsjj7"
+},
+{
+  "title": "Loteo San Pedro",
+  "price": null,
+  "categoryName": "Condominio",
+  "address": "km 5, 7, Zapallar, Región de Valparaíso, Chile",
+  "neighborhood": null,
+  "street": "km 5, 7",
+  "city": "Zapallar, Curicó",
+  "postalCode": null,
+  "state": "Región de Valparaíso",
+  "countryCode": "CL",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -35.0124551,
+    "lng": -71.1684187
+  },
+  "totalScore": 4.8,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJG9Gf6Kb5ZJYRP4KJB0lBY_8",
+  "categories": [
+    "Condominio"
+  ],
+  "fid": "0x9664f9a6e89fd11b:0xff6341490789823f",
+  "cid": "18402624284280848959",
+  "reviewsCount": 4,
+  "imagesCount": null,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:31:39.341Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accesibilidad": [
+      {
+        "Estacionamiento accesible para personas en silla de ruedas": false
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Loteo%20San%20Pedro&query_place_id=ChIJG9Gf6Kb5ZJYRP4KJB0lBY_8",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-34.74079328655792,-71.0638862,9z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 4,
+  "isAdvertisement": false,
+  "kgmid": "/g/11gydjvf_v"
+},
+{
+  "title": "Horizonte del Mar",
+  "price": null,
+  "categoryName": "Urbanización",
+  "address": "36P6+RW, Santo Domingo, Valparaíso, Chile",
+  "neighborhood": null,
+  "street": "36P6+RW",
+  "city": "Santo Domingo",
+  "postalCode": null,
+  "state": "Valparaíso",
+  "countryCode": "CL",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -33.9129219,
+    "lng": -71.7876972
+  },
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ8wXsGgDTY5YR4lox-BDgyIs",
+  "categories": [
+    "Urbanización"
+  ],
+  "fid": "0x9663d3001aec05f3:0x8bc8e010f8315ae2",
+  "cid": "10072546930102196962",
+  "reviewsCount": null,
+  "imagesCount": 1,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:31:39.341Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Horizonte%20del%20Mar&query_place_id=ChIJ8wXsGgDTY5YR4lox-BDgyIs",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-34.74079328655792,-71.0638862,9z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 5,
+  "isAdvertisement": false,
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=M08-3RlToFXKBvFhcYOleg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=334.40805&pitch=0&thumbfov=100",
+  "kgmid": "/g/11vrkqty__"
+},
+{
+  "title": "Venta de parcelas Raíces de Santo Domingo",
+  "price": null,
+  "categoryName": "Agencia inmobiliaria",
+  "address": "Camino San Guillermo, Santo Domingo, Valparaíso, Chile",
+  "neighborhood": null,
+  "street": "Camino San Guillermo",
+  "city": "Santo Domingo",
+  "postalCode": null,
+  "state": "Valparaíso",
+  "countryCode": "CL",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -33.9064152,
+    "lng": -71.7306298
+  },
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJI0U0DwDNY5YR2My7XS0Rpg0",
+  "categories": [
+    "Agencia inmobiliaria"
+  ],
+  "fid": "0x9663cd000f344523:0xda6112d5dbbccd8",
+  "cid": "983492455170821336",
+  "reviewsCount": null,
+  "imagesCount": 1,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:31:39.341Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Venta%20de%20parcelas%20Ra%C3%ADces%20de%20Santo%20Domingo&query_place_id=ChIJI0U0DwDNY5YR2My7XS0Rpg0",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-34.74079328655792,-71.0638862,9z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 6,
+  "isAdvertisement": false,
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=dS7rM2q9pkGLOU839zkHnQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=155.14912&pitch=0&thumbfov=100",
+  "kgmid": "/g/11y2q60w4w"
+},
+{
+  "title": "Familia VG",
+  "price": null,
+  "address": "Santo Domingo, Valparaíso, Chile",
+  "neighborhood": null,
+  "street": null,
+  "city": "Santo Domingo",
+  "postalCode": null,
+  "state": "Valparaíso",
+  "countryCode": "CL",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -33.8873714,
+    "lng": -71.7292931
+  },
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJvdzdCQDNY5YRn77Ij4wOiNQ",
+  "categories": [],
+  "fid": "0x9663cd0009dddcbd:0xd4880e8c8fc8be9f",
+  "cid": "15314506529743879839",
+  "reviewsCount": null,
+  "imagesCount": null,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:31:39.341Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Familia%20VG&query_place_id=ChIJvdzdCQDNY5YRn77Ij4wOiNQ",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-34.74079328655792,-71.0638862,9z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 7,
+  "isAdvertisement": false,
+  "kgmid": "/g/11vyccthz7"
+},
+{
+  "title": "san antonio",
+  "price": null,
+  "categoryName": "Sociedad de viviendas",
+  "address": "478M+FC, Santo Domingo, Valparaíso, Chile",
+  "neighborhood": null,
+  "street": "478M+FC",
+  "city": "Santo Domingo",
+  "postalCode": null,
+  "state": "Valparaíso",
+  "countryCode": "CL",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -33.8837885,
+    "lng": -71.716417
+  },
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJB4gbfADNY5YRciI4oCQlQcU",
+  "categories": [
+    "Sociedad de viviendas"
+  ],
+  "fid": "0x9663cd007c1b8807:0xc5412524a0382272",
+  "cid": "14213682738195079794",
+  "reviewsCount": null,
+  "imagesCount": null,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:31:39.341Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=san%20antonio&query_place_id=ChIJB4gbfADNY5YRciI4oCQlQcU",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-34.74079328655792,-71.0638862,9z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 8,
+  "isAdvertisement": false,
+  "kgmid": "/g/11x7gctsl_"
+},
+{
+  "title": "Horizonte del Mar, Parcela 1B",
+  "price": null,
+  "categoryName": "Casa rural",
+  "address": "36P4+VJ, Santo Domingo, Valparaíso, Chile",
+  "neighborhood": null,
+  "street": "36P4+VJ",
+  "city": "Santo Domingo",
+  "postalCode": null,
+  "state": "Valparaíso",
+  "countryCode": "CL",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -33.9128451,
+    "lng": -71.793494
+  },
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJI7Hfg6PTY5YRQPgNERfyo1s",
+  "categories": [
+    "Casa rural"
+  ],
+  "fid": "0x9663d3a383dfb123:0x5ba3f217110df840",
+  "cid": "6603387659539576896",
+  "reviewsCount": 1,
+  "imagesCount": 1,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:31:39.341Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Horizonte%20del%20Mar%2C%20Parcela%201B&query_place_id=ChIJI7Hfg6PTY5YRQPgNERfyo1s",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-34.74079328655792,-71.0638862,9z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 9,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweokAFeQqZdWWniES7M1i3HaN-ubY3bwMtyP8AapHteIxwITYlRnsmON3H9_FqtVTQ-LeWXqY1FUOCrr7LZfiQorrhoRVr85ZeNkYBz9107B1ARxnagVf_l_pJfy1b3yOGgciVZC=w408-h408-k-no",
+  "kgmid": "/g/11kj6v__vd"
+},
+{
+  "title": "corredora de propiedades Inara Rancagua",
+  "price": null,
+  "categoryName": "Empresa de administración de propiedades",
+  "address": "Valparaíso 371, 2820000 Rancagua, O'Higgins, Chile",
+  "neighborhood": null,
+  "street": "Valparaíso 371",
+  "city": "Rancagua",
+  "postalCode": "2820000",
+  "state": "O'Higgins",
+  "countryCode": "CL",
+  "phone": "+56 9 3196 1211",
+  "phoneUnformatted": "+56931961211",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -34.1794811,
+    "lng": -70.7442366
+  },
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJuwbBzqRDY5YRNZdg6EmEhug",
+  "categories": [
+    "Empresa de administración de propiedades"
+  ],
+  "fid": "0x966343a4cec106bb:0xe8868449e8609735",
+  "cid": "16755224916644632373",
+  "reviewsCount": null,
+  "imagesCount": 1,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:31:39.341Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=corredora%20de%20propiedades%20Inara%20Rancagua&query_place_id=ChIJuwbBzqRDY5YRNZdg6EmEhug",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-34.74079328655792,-71.0638862,9z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 10,
+  "isAdvertisement": false,
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=u069Diey4JbcjwyrAmrwkA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=47.173794&pitch=0&thumbfov=100",
+  "kgmid": "/g/11wby4zqv9"
+},
+{
+  "title": "Calle Verona",
+  "price": null,
+  "address": "38RH+9C, Santo Domingo, Valparaíso, Chile",
+  "neighborhood": null,
+  "street": "38RH+9C",
+  "city": "Santo Domingo",
+  "postalCode": null,
+  "state": "Valparaíso",
+  "countryCode": "CL",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -33.9090765,
+    "lng": -71.6714804
+  },
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ3wW7FwDPY5YRnzLUoUe38O0",
+  "categories": [],
+  "fid": "0x9663cf0017bb05df:0xedf0b747a1d4329f",
+  "cid": "17145405299685077663",
+  "reviewsCount": null,
+  "imagesCount": null,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:31:39.341Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Calle%20Verona&query_place_id=ChIJ3wW7FwDPY5YRnzLUoUe38O0",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-34.74079328655792,-71.0638862,9z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 11,
+  "isAdvertisement": false,
+  "kgmid": "/g/11x5hsxb_c"
+},
+{
+  "title": "MI CASITA",
+  "price": null,
+  "address": "Av. Alfredo Dueñas 162, San Pedro, Quillota, Valparaíso, Chile",
+  "neighborhood": null,
+  "street": "Av. Alfredo Dueñas 162",
+  "city": "San Pedro, Quillota",
+  "postalCode": null,
+  "state": "Valparaíso",
+  "countryCode": "CL",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -33.9274375,
+    "lng": -71.9128125
+  },
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJtZAraADVY5YRhC_N9cruN-c",
+  "categories": [],
+  "fid": "0x9663d500682b90b5:0xe737eecaf5cd2f84",
+  "cid": "16661047901955108740",
+  "reviewsCount": null,
+  "imagesCount": null,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:31:39.341Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=MI%20CASITA&query_place_id=ChIJtZAraADVY5YRhC_N9cruN-c",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-34.74079328655792,-71.0638862,9z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 12,
+  "isAdvertisement": false,
+  "kgmid": "/g/11v_5bhn3j"
+},
+{
+  "title": "Campo Alegre",
+  "price": null,
+  "categoryName": "Urbanización",
+  "address": "Santo Domingo, Valparaíso, Chile",
+  "neighborhood": null,
+  "street": null,
+  "city": "Santo Domingo",
+  "postalCode": null,
+  "state": "Valparaíso",
+  "countryCode": "CL",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -33.871788,
+    "lng": -71.6968129
+  },
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJIx35QGPNY5YRJaXS5Cm9pOE",
+  "categories": [
+    "Urbanización"
+  ],
+  "fid": "0x9663cd6340f91d23:0xe1a4bd29e4d2a525",
+  "cid": "16259328542344652069",
+  "reviewsCount": 2,
+  "imagesCount": 13,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:31:39.341Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Campo%20Alegre&query_place_id=ChIJIx35QGPNY5YRJaXS5Cm9pOE",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-34.74079328655792,-71.0638862,9z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 13,
+  "isAdvertisement": false,
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=cxwF8JLZdpsphSZmUk9DmA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=292.96042&pitch=0&thumbfov=100",
+  "kgmid": "/g/11tt3tbmrg"
+},
+{
+  "title": "Santa Laura",
+  "price": null,
+  "address": "38QH+MP, Santo Domingo, Valparaíso, Chile",
+  "neighborhood": null,
+  "street": "38QH+MP",
+  "city": "Santo Domingo",
+  "postalCode": null,
+  "state": "Valparaíso",
+  "countryCode": "CL",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -33.9108278,
+    "lng": -71.6706986
+  },
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJARwTJQDPY5YRvDc5ziovrF0",
+  "categories": [],
+  "fid": "0x9663cf0025131c01:0x5dac2f2ace3937bc",
+  "cid": "6749821802416519100",
+  "reviewsCount": 2,
+  "imagesCount": null,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:31:39.341Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Santa%20Laura&query_place_id=ChIJARwTJQDPY5YRvDc5ziovrF0",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-34.74079328655792,-71.0638862,9z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 14,
+  "isAdvertisement": false,
+  "kgmid": "/g/11w9l97zwb"
+},
+{
+  "title": "Hacienda San Enrique",
+  "price": null,
+  "categoryName": "Condominio",
+  "address": "38RF+74, Santo Domingo, Valparaíso, Chile",
+  "neighborhood": null,
+  "street": "38RF+74",
+  "city": "Santo Domingo",
+  "postalCode": null,
+  "state": "Valparaíso",
+  "countryCode": "CL",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -33.9092791,
+    "lng": -71.6772291
+  },
+  "totalScore": 4.4,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ19bDuSDNY5YREgSySqBra2U",
+  "categories": [
+    "Condominio"
+  ],
+  "fid": "0x9663cd20b9c3d6d7:0x656b6ba04ab20412",
+  "cid": "7308053156530881554",
+  "reviewsCount": 16,
+  "imagesCount": null,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:31:39.341Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Mascotas": [
+      {
+        "Se permiten perros": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Hacienda%20San%20Enrique&query_place_id=ChIJ19bDuSDNY5YREgSySqBra2U",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-34.74079328655792,-71.0638862,9z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 15,
+  "isAdvertisement": false,
+  "kgmid": "/g/11v9b_xvqz"
+},
+{
+  "title": "Refugio Maintenlahue",
+  "price": null,
+  "categoryName": "Urbanización",
+  "address": "Santo Domingo, Valparaíso, Chile",
+  "neighborhood": null,
+  "street": null,
+  "city": "Santo Domingo",
+  "postalCode": null,
+  "state": "Valparaíso",
+  "countryCode": "CL",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -33.8804816,
+    "lng": -71.7633189
+  },
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJOeeaUQDTY5YRqEzOeslF41U",
+  "categories": [
+    "Urbanización"
+  ],
+  "fid": "0x9663d300519ae739:0x55e345c97ace4ca8",
+  "cid": "6188867044588276904",
+  "reviewsCount": null,
+  "imagesCount": null,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:31:39.341Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Refugio%20Maintenlahue&query_place_id=ChIJOeeaUQDTY5YRqEzOeslF41U",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-34.74079328655792,-71.0638862,9z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 16,
+  "isAdvertisement": false,
+  "kgmid": "/g/11vwp826gq"
+},
+{
+  "title": "Fundo La boca",
+  "price": null,
+  "categoryName": "Urbanización",
+  "address": "4633+J3, Santo Domingo, Valparaíso, Chile",
+  "neighborhood": null,
+  "street": "4633+J3",
+  "city": "Santo Domingo",
+  "postalCode": null,
+  "state": "Valparaíso",
+  "countryCode": "CL",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -33.8958809,
+    "lng": -71.7973234
+  },
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ2_ydqePTY5YRhTlHP0xXgCM",
+  "categories": [
+    "Urbanización"
+  ],
+  "fid": "0x9663d3e3a99dfcdb:0x2380574c3f473985",
+  "cid": "2558140573337205125",
+  "reviewsCount": null,
+  "imagesCount": 1,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:31:39.341Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Fundo%20La%20boca&query_place_id=ChIJ2_ydqePTY5YRhTlHP0xXgCM",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-34.74079328655792,-71.0638862,9z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 17,
+  "isAdvertisement": false,
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=mkxnkIfmLIdYriKWTEBrIw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=223.03699&pitch=0&thumbfov=100",
+  "kgmid": "/g/11kqqrlc9v"
+},
+{
+  "title": "Las Raíces de Santo Domingo",
+  "price": null,
+  "categoryName": "Condominio",
+  "address": "4798+3H, Santo Domingo, Valparaíso, Chile",
+  "neighborhood": null,
+  "street": "4798+3H",
+  "city": "Santo Domingo",
+  "postalCode": null,
+  "state": "Valparaíso",
+  "countryCode": "CL",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -33.8865183,
+    "lng": -71.7315461
+  },
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJl0WsaADNY5YRvFzNY93XpnY",
+  "categories": [
+    "Condominio"
+  ],
+  "fid": "0x9663cd0068ac4597:0x76a6d7dd63cd5cbc",
+  "cid": "8549758288471612604",
+  "reviewsCount": null,
+  "imagesCount": null,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:31:39.341Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Las%20Ra%C3%ADces%20de%20Santo%20Domingo&query_place_id=ChIJl0WsaADNY5YRvFzNY93XpnY",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-34.74079328655792,-71.0638862,9z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 18,
+  "isAdvertisement": false,
+  "kgmid": "/g/11w22j_mrw"
+},
+{
+  "title": "Parcelación EcoParcela",
+  "price": null,
+  "categoryName": "Urbanización",
+  "address": "38R8+GMF, Santo Domingo, Valparaíso, Chile",
+  "neighborhood": null,
+  "street": "38R8+GMF",
+  "city": "Santo Domingo",
+  "postalCode": null,
+  "state": "Valparaíso",
+  "countryCode": "CL",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -33.9086875,
+    "lng": -71.6833281
+  },
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ4ShWNQDNY5YRQ8o5_QmxhF4",
+  "categories": [
+    "Urbanización"
+  ],
+  "fid": "0x9663cd00355628e1:0x5e84b109fd39ca43",
+  "cid": "6810763192952277571",
+  "reviewsCount": null,
+  "imagesCount": null,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:31:39.341Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Parcelaci%C3%B3n%20EcoParcela&query_place_id=ChIJ4ShWNQDNY5YRQ8o5_QmxhF4",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-34.74079328655792,-71.0638862,9z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 19,
+  "isAdvertisement": false,
+  "kgmid": "/g/11y7ccpqys"
+},
+{
+  "title": "Camino a Campo Alegre",
+  "price": null,
+  "categoryName": "Sociedad de viviendas",
+  "address": "Santo Domingo, Valparaíso, Chile",
+  "neighborhood": null,
+  "street": null,
+  "city": "Santo Domingo",
+  "postalCode": null,
+  "state": "Valparaíso",
+  "countryCode": "CL",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -33.884408,
+    "lng": -71.683265
+  },
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJGYswR6jNY5YRoTznW9k5g2w",
+  "categories": [
+    "Sociedad de viviendas"
+  ],
+  "fid": "0x9663cda847308b19:0x6c8339d95be73ca1",
+  "cid": "7819156983757880481",
+  "reviewsCount": null,
+  "imagesCount": 1,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:31:39.341Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Camino%20a%20Campo%20Alegre&query_place_id=ChIJGYswR6jNY5YRoTznW9k5g2w",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-34.74079328655792,-71.0638862,9z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 20,
+  "isAdvertisement": false,
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=b_hwIA63jcPxGUFcF94Wkw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=325.17477&pitch=0&thumbfov=100",
+  "kgmid": "/g/11sjgppr6l"
+},
+{
+  "title": "Valles de La Florida",
+  "price": null,
+  "categoryName": "Agencia inmobiliaria",
+  "address": "O'Higgins 143, Talca, Maule, Chile",
+  "neighborhood": null,
+  "street": "O'Higgins 143",
+  "city": "Talca",
+  "postalCode": null,
+  "state": "Maule",
+  "countryCode": "CL",
+  "website": "http://fervali.cl/valles-de-la-florida/",
+  "phone": "+56 9 3955 0771",
+  "phoneUnformatted": "+56939550771",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -35.4496733,
+    "lng": -71.6935798
+  },
+  "totalScore": 4.7,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ5UYpaCrFZZYRKLihpLYXwSM",
+  "categories": [
+    "Agencia inmobiliaria"
+  ],
+  "fid": "0x9665c52a682946e5:0x23c117b6a4a1b828",
+  "cid": "2576366535046182952",
+  "reviewsCount": 36,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 1,
+    "threeStar": 2,
+    "fourStar": 4,
+    "fiveStar": 29
+  },
+  "imagesCount": 5,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:31:40.852Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "miércoles",
+      "hours": "9 AM to 6 PM"
+    },
+    {
+      "day": "jueves",
+      "hours": "9 AM to 6 PM"
+    },
+    {
+      "day": "viernes",
+      "hours": "9 AM to 6 PM"
+    },
+    {
+      "day": "sábado",
+      "hours": "Cerrado"
+    },
+    {
+      "day": "domingo",
+      "hours": "Cerrado"
+    },
+    {
+      "day": "lunes",
+      "hours": "9 AM to 6 PM"
+    },
+    {
+      "day": "martes",
+      "hours": "9 AM to 6 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accesibilidad": [
+      {
+        "Entrada accesible para personas en silla de ruedas": true
+      },
+      {
+        "Estacionamiento accesible para personas en silla de ruedas": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Valles%20de%20La%20Florida&query_place_id=ChIJ5UYpaCrFZZYRKLihpLYXwSM",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-34.74079328655792,-71.0638862,9z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 21,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerPRYt_1Fnf4ZAI0abCc6Cas5OxjlMApQVLmc6Ayu9B7shsiT62fMKrhJPqOScCRbJs4mEq-mpivVa7l60u6rvZge03JvSfiDgiD5F1Zq4J2t5DSqwPWygddS6sIBbT_Uhfqacd=w533-h240-k-no",
+  "kgmid": "/g/11lgf47jsp"
+},
+{
+  "title": "Edificio Cachapoal",
+  "price": null,
+  "categoryName": "Empresa de administración de propiedades",
+  "address": "Cachapoal 228, 2841160 Rancagua, O'Higgins, Chile",
+  "neighborhood": null,
+  "street": "Cachapoal 228",
+  "city": "Rancagua",
+  "postalCode": null,
+  "state": "O'Higgins",
+  "countryCode": "CL",
+  "website": "https://mialborada.cl/proyectos/edificio-cachapoal/",
+  "phone": "+56 9 6389 8086",
+  "phoneUnformatted": "+56963898086",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -34.1777002,
+    "lng": -70.743256
+  },
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJGcHPnBZDY5YRv7ZTueFU2XE",
+  "categories": [
+    "Empresa de administración de propiedades"
+  ],
+  "fid": "0x966343169ccfc119:0x71d954e1b953b6bf",
+  "cid": "8203681524685715135",
+  "reviewsCount": null,
+  "imagesCount": 10,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:31:40.852Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "miércoles",
+      "hours": "10 AM to 6 PM"
+    },
+    {
+      "day": "jueves",
+      "hours": "10 AM to 6 PM"
+    },
+    {
+      "day": "viernes",
+      "hours": "10 AM to 6 PM"
+    },
+    {
+      "day": "sábado",
+      "hours": "10 AM to 2 PM"
+    },
+    {
+      "day": "domingo",
+      "hours": "Cerrado"
+    },
+    {
+      "day": "lunes",
+      "hours": "10 AM to 6 PM"
+    },
+    {
+      "day": "martes",
+      "hours": "10 AM to 6 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accesibilidad": [
+      {
+        "Entrada accesible para personas en silla de ruedas": true
+      }
+    ],
+    "Estacionamiento": [
+      {
+        "Estacionamiento en el lugar": true
+      },
+      {
+        "Estacionamiento gratuito": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Edificio%20Cachapoal&query_place_id=ChIJGcHPnBZDY5YRv7ZTueFU2XE",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-34.74079328655792,-71.0638862,9z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 25,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOUDX82L1gDZt86HjPAnn01iCoJcx9FBs0QYcoR=w408-h265-k-no",
+  "kgmid": "/g/11kc4dd5g6"
+},
+{
+  "title": "Conservador De Bienes Raíces De Constitución",
+  "price": null,
+  "categoryName": "Agencia de bienes inmuebles comerciales",
+  "address": "Oñederra 623-697, 3560074 Constitución, Maule, Chile",
+  "neighborhood": null,
+  "street": "Oñederra 623-697",
+  "city": "Constitución",
+  "postalCode": null,
+  "state": "Maule",
+  "countryCode": "CL",
+  "website": "http://www.conservadorconstitucion.cl/",
+  "phone": "+56 71 267 1223",
+  "phoneUnformatted": "+56712671223",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -35.3330107,
+    "lng": -72.4119244
+  },
+  "totalScore": 3.8,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ5TnLOjpfZpYRh9bCjObVGhU",
+  "categories": [
+    "Agencia de bienes inmuebles comerciales"
+  ],
+  "fid": "0x96665f3a3acb39e5:0x151ad5e68cc2d687",
+  "cid": "1520763010371737223",
+  "reviewsCount": 40,
+  "reviewsDistribution": {
+    "oneStar": 5,
+    "twoStar": 3,
+    "threeStar": 6,
+    "fourStar": 7,
+    "fiveStar": 19
+  },
+  "imagesCount": 8,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:31:40.853Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "miércoles",
+      "hours": "9 AM to 2 PM"
+    },
+    {
+      "day": "jueves",
+      "hours": "9 AM to 2 PM"
+    },
+    {
+      "day": "viernes",
+      "hours": "9 AM to 2 PM"
+    },
+    {
+      "day": "sábado",
+      "hours": "Cerrado"
+    },
+    {
+      "day": "domingo",
+      "hours": "Cerrado"
+    },
+    {
+      "day": "lunes",
+      "hours": "9 AM to 2 PM"
+    },
+    {
+      "day": "martes",
+      "hours": "9 AM to 2 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accesibilidad": [
+      {
+        "Estacionamiento accesible para personas en silla de ruedas": false
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Conservador%20De%20Bienes%20Ra%C3%ADces%20De%20Constituci%C3%B3n&query_place_id=ChIJ5TnLOjpfZpYRh9bCjObVGhU",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-34.74079328655792,-71.0638862,9z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 32,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoDEBRKjpWByYnAS_xL97G3daIoTzXU-akceQIyp_57-TwWhLkSTHBSSevg3DPwlj4C_RnEMty7pROz_M7OC7ohJ3FMRiIEZ5GHonxqWqVh5sK-VciLIPLfdUZzj3BBTCFYPu0=w427-h240-k-no",
+  "kgmid": "/g/11c6qcll5m"
+},
+{
+  "title": "Placilla, Chile",
+  "price": null,
+  "address": "Ruta I-848, km 0,5, sector, La Tuna, Comuna Placilla, O'Higgins, Chile",
+  "neighborhood": null,
+  "street": "Ruta I-848, km 0,5, sector",
+  "city": "La Tuna, Comuna Placilla",
+  "postalCode": null,
+  "state": "O'Higgins",
+  "countryCode": "CL",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -34.6257661,
+    "lng": -71.0651863
+  },
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJg6NPNACPZJYRqLvwHzNYOKk",
+  "categories": [],
+  "fid": "0x96648f00344fa383:0xa93858331ff0bba8",
+  "cid": "12193592967708064680",
+  "reviewsCount": 1,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 1
+  },
+  "imagesCount": 1,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:31:40.853Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Placilla%2C%20Chile&query_place_id=ChIJg6NPNACPZJYRqLvwHzNYOKk",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-34.74079328655792,-71.0638862,9z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 33,
+  "isAdvertisement": false,
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Nj2AGeHS6yVtztls22MU_g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=59.777218&pitch=0&thumbfov=100",
+  "kgmid": "/g/11wp_50j7d"
+},
+{
+  "title": "SYF Propiedades SPA",
+  "price": null,
+  "categoryName": "Empresa de administración de propiedades",
+  "address": "Samuel Román Rojas 900, Rancagua, O'Higgins, Chile",
+  "neighborhood": null,
+  "street": "Samuel Román Rojas 900",
+  "city": "Rancagua",
+  "postalCode": null,
+  "state": "O'Higgins",
+  "countryCode": "CL",
+  "phone": "+56 9 6918 1650",
+  "phoneUnformatted": "+56969181650",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -34.1367818,
+    "lng": -70.7400124
+  },
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJe5wR5ZdDY5YRi9RUH5-AOaU",
+  "categories": [
+    "Empresa de administración de propiedades"
+  ],
+  "fid": "0x96634397e5119c7b:0xa539809f1f54d48b",
+  "cid": "11905688510844425355",
+  "reviewsCount": null,
+  "imagesCount": 1,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:31:40.853Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=SYF%20Propiedades%20SPA&query_place_id=ChIJe5wR5ZdDY5YRi9RUH5-AOaU",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-34.74079328655792,-71.0638862,9z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 36,
+  "isAdvertisement": false,
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=S9ZmuVJecHxmCEmpvbzgug&cb_client=search.gws-prod.gps&w=408&h=240&yaw=208.0021&pitch=0&thumbfov=100",
+  "kgmid": "/g/11j48h5j01"
+},
+{
+  "title": "corredora de propiedades",
+  "price": null,
+  "categoryName": "Agencia inmobiliaria",
+  "address": "1 sur 770 departamento 3-C, 3460000 Talca, Maule, Chile",
+  "neighborhood": null,
+  "street": "1 sur 770 departamento 3-C",
+  "city": "Talca",
+  "postalCode": "3460000",
+  "state": "Maule",
+  "countryCode": "CL",
+  "phone": "+56 9 6100 1220",
+  "phoneUnformatted": "+56961001220",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -35.4455396,
+    "lng": -71.6704325
+  },
+  "totalScore": 3.7,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJVV6LRrnGZZYRMUlNwMg1PjM",
+  "categories": [
+    "Agencia inmobiliaria"
+  ],
+  "fid": "0x9665c6b9468b5e55:0x333e35c8c04d4931",
+  "cid": "3692447880826407217",
+  "reviewsCount": 6,
+  "reviewsDistribution": {
+    "oneStar": 1,
+    "twoStar": 1,
+    "threeStar": 0,
+    "fourStar": 1,
+    "fiveStar": 3
+  },
+  "imagesCount": 1,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:31:40.853Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=corredora%20de%20propiedades&query_place_id=ChIJVV6LRrnGZZYRMUlNwMg1PjM",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-34.74079328655792,-71.0638862,9z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 39,
+  "isAdvertisement": false,
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=zDq3-0Xom8BKTdNpUOqUCg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=30.37459&pitch=0&thumbfov=100",
+  "kgmid": "/g/1tmcnfv4"
+},
+{
+  "title": "Inmobiliaria Dhelos",
+  "price": null,
+  "categoryName": "Agencia inmobiliaria",
+  "address": "C. Limache 3405, 2520000 Viña del Mar, Valparaíso, Chile",
+  "neighborhood": "El Salto",
+  "street": "C. Limache 3405",
+  "city": "Viña del Mar",
+  "postalCode": "2520000",
+  "state": "Valparaíso",
+  "countryCode": "CL",
+  "website": "http://www.dhelos.com/",
+  "phone": "+56 32 263 1053",
+  "phoneUnformatted": "+56322631053",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -33.0431804,
+    "lng": -71.5177035
+  },
+  "totalScore": 4.5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJtaPEymPeiZYRHSBdyuHzPjM",
+  "categories": [
+    "Agencia inmobiliaria"
+  ],
+  "fid": "0x9689de63cac4a3b5:0x333ef3e1ca5d201d",
+  "cid": "3692656895578677277",
+  "reviewsCount": 15,
+  "imagesCount": 9,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:31:47.663Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "miércoles",
+      "hours": "9 AM to 2 PM, 3 to 6 PM"
+    },
+    {
+      "day": "jueves",
+      "hours": "9 AM to 2 PM, 3 to 6 PM"
+    },
+    {
+      "day": "viernes",
+      "hours": "9 AM to 2 PM, 3 to 6 PM"
+    },
+    {
+      "day": "sábado",
+      "hours": "9 AM to 2 PM, 3 to 6 PM"
+    },
+    {
+      "day": "domingo",
+      "hours": "10 AM to 2 PM, 3 to 5 PM"
+    },
+    {
+      "day": "lunes",
+      "hours": "9 AM to 2 PM, 3 to 6 PM"
+    },
+    {
+      "day": "martes",
+      "hours": "9 AM to 2 PM, 3 to 6 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Inmobiliaria%20Dhelos&query_place_id=ChIJtaPEymPeiZYRHSBdyuHzPjM",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-33.53977110470243,-80.796748,12z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 20,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqNSSHGE0Q-75UqHOxkW4RoqUL8WJ_QvLt3JJUCGxiteKJfz7HfC_OJHJF7Aj4kJHoDL9VFs0vIYwznOElR5KTGCWVG78ENzn819yPZMaIAFcHkNyBPGzKedLDb7qqo_mobPXEJwMGw5Ge-=w426-h240-k-no",
+  "kgmid": "/g/1tfmdfwx"
+},
+{
+  "title": "Calle valoaraiso",
+  "price": null,
+  "categoryName": "Sociedad de viviendas",
+  "address": "Av. Valparaiso 187, Alto Hospicio, Tarapacá, Chile",
+  "neighborhood": null,
+  "street": "Av. Valparaiso 187",
+  "city": "Alto Hospicio",
+  "postalCode": null,
+  "state": "Tarapacá",
+  "countryCode": "CL",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -20.2779257,
+    "lng": -70.0826736
+  },
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJTd0xNgAVUpERkFP66b6TDis",
+  "categories": [
+    "Sociedad de viviendas"
+  ],
+  "fid": "0x915215003631dd4d:0x2b0e93bee9fa5390",
+  "cid": "3102579641483416464",
+  "reviewsCount": null,
+  "imagesCount": null,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:31:53.762Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Calle%20valoaraiso&query_place_id=ChIJTd0xNgAVUpERkFP66b6TDis",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-20.055263942463398,-71.0638862,9z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 1,
+  "isAdvertisement": false,
+  "kgmid": "/g/11xz30rqnx"
+},
+{
+  "title": "Jano",
+  "price": null,
+  "address": "Salitrera Valparaíso 3472, 1131625 Alto Hospicio, Tarapacá, Chile",
+  "neighborhood": null,
+  "street": "Salitrera Valparaíso 3472",
+  "city": "Alto Hospicio",
+  "postalCode": "1131625",
+  "state": "Tarapacá",
+  "countryCode": "CL",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -20.2761529,
+    "lng": -70.1072896
+  },
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ12pxSgAVUpERb6alCHrIWsU",
+  "categories": [],
+  "fid": "0x915215004a716ad7:0xc55ac87a08a5a66f",
+  "cid": "14220899199832401519",
+  "reviewsCount": null,
+  "imagesCount": 1,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:31:53.762Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Jano&query_place_id=ChIJ12pxSgAVUpERb6alCHrIWsU",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-20.055263942463398,-71.0638862,9z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 2,
+  "isAdvertisement": false,
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=HJNViVTGI4xvBD4Vb6ZXAg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=75.864975&pitch=0&thumbfov=100",
+  "kgmid": "/g/11xvmh38vn"
+},
+{
+  "title": "Inmobiliaria Urbano",
+  "price": null,
+  "categoryName": "Agencia inmobiliaria",
+  "address": "4150217 Penco, Bío Bío, Chile",
+  "neighborhood": null,
+  "street": null,
+  "city": "Penco",
+  "postalCode": null,
+  "state": "Bío Bío",
+  "countryCode": "CL",
+  "phone": "+56 41 245 9090",
+  "phoneUnformatted": "+56412459090",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -36.7393714,
+    "lng": -72.992448
+  },
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJB8HYB6pMaJYRGyglMZoTfag",
+  "categories": [
+    "Agencia inmobiliaria"
+  ],
+  "fid": "0x96684caa07d8c107:0xa87d139a3125281b",
+  "cid": "12140881723431135259",
+  "reviewsCount": 1,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 1
+  },
+  "imagesCount": 1,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:32:01.887Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Inmobiliaria%20Urbano&query_place_id=ChIJB8HYB6pMaJYRGyglMZoTfag",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-36.83872604999999,-74.83637278992023,9z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 21,
+  "isAdvertisement": false,
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Ql6WVrG72jK85FZwuLTscQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=100.100815&pitch=0&thumbfov=100",
+  "kgmid": "/g/1tfgffxy"
+},
+{
+  "title": "Inmobiliaria Soterra",
+  "price": null,
+  "categoryName": "Agencia inmobiliaria",
+  "address": "0000041 Concepción, Bío Bío, Chile",
+  "neighborhood": null,
+  "street": null,
+  "city": "Concepción",
+  "postalCode": "0000041",
+  "state": "Bío Bío",
+  "countryCode": "CL",
+  "website": "http://www.soterra.cl/",
+  "phone": "+56 41 295 3236",
+  "phoneUnformatted": "+56412953236",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -36.8201352,
+    "lng": -73.0443904
+  },
+  "totalScore": 3.5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJPcY_Hnq1aZYRIkpRq-ixXOg",
+  "categories": [
+    "Agencia inmobiliaria"
+  ],
+  "fid": "0x9669b57a1e3fc63d:0xe85cb1e8ab514a22",
+  "cid": "16743453127521421858",
+  "reviewsCount": 15,
+  "reviewsDistribution": {
+    "oneStar": 4,
+    "twoStar": 0,
+    "threeStar": 3,
+    "fourStar": 1,
+    "fiveStar": 7
+  },
+  "imagesCount": 2,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:32:01.887Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "miércoles",
+      "hours": "9 AM to 6 PM"
+    },
+    {
+      "day": "jueves",
+      "hours": "9 AM to 6 PM"
+    },
+    {
+      "day": "viernes",
+      "hours": "9 AM to 6 PM"
+    },
+    {
+      "day": "sábado",
+      "hours": "Cerrado"
+    },
+    {
+      "day": "domingo",
+      "hours": "Cerrado"
+    },
+    {
+      "day": "lunes",
+      "hours": "9 AM to 6 PM"
+    },
+    {
+      "day": "martes",
+      "hours": "9 AM to 6 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Inmobiliaria%20Soterra&query_place_id=ChIJPcY_Hnq1aZYRIkpRq-ixXOg",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-36.83872604999999,-74.83637278992023,9z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 22,
+  "isAdvertisement": false,
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2BqQTn0-hp3opocqA1UULQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=237.52782&pitch=0&thumbfov=100",
+  "kgmid": "/g/11g25bn5tf"
+},
+{
+  "title": "Cabañas El Mirador",
+  "price": null,
+  "categoryName": "Agencia de alquiler de cabañas",
+  "address": "Valparaiso ,Cocholgue Tomé, 4160000 Biobío, Chile",
+  "neighborhood": null,
+  "street": "Valparaiso ,Cocholgue Tomé",
+  "city": "Biobío, Tomé",
+  "postalCode": "4160000",
+  "state": "Bío Bío",
+  "countryCode": "CL",
+  "website": "http://www.xn--cabaaselmiradorcocholgue-3kc.cl/",
+  "phone": "+56 9 7308 2991",
+  "phoneUnformatted": "+56973082991",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -36.5955414,
+    "lng": -72.9764778
+  },
+  "totalScore": 4.1,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJKy-dEP1PaJYRT20ANyQ2Bdc",
+  "categories": [
+    "Agencia de alquiler de cabañas"
+  ],
+  "fid": "0x96684ffd109d2f2b:0xd705362437006d4f",
+  "cid": "15493849622207556943",
+  "reviewsCount": 70,
+  "reviewsDistribution": {
+    "oneStar": 6,
+    "twoStar": 7,
+    "threeStar": 5,
+    "fourStar": 9,
+    "fiveStar": 43
+  },
+  "imagesCount": 130,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:32:01.887Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "miércoles",
+      "hours": "9 AM to 8 PM"
+    },
+    {
+      "day": "jueves",
+      "hours": "9 AM to 8 PM"
+    },
+    {
+      "day": "viernes",
+      "hours": "9 AM to 8 PM"
+    },
+    {
+      "day": "sábado",
+      "hours": "9 AM to 8 PM"
+    },
+    {
+      "day": "domingo",
+      "hours": "9 AM to 8 PM"
+    },
+    {
+      "day": "lunes",
+      "hours": "9 AM to 8 PM"
+    },
+    {
+      "day": "martes",
+      "hours": "9 AM to 8 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Caba%C3%B1as%20El%20Mirador&query_place_id=ChIJKy-dEP1PaJYRT20ANyQ2Bdc",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-36.83872604999999,-74.83637278992023,9z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 23,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqkG62_1Gu2idJNqwVFoHnVu0br1jGvY-jYZGL5A7mjcEd-zEkfF3Hm02C3v-Uz9gelEFNt-pf7S28cFOo87IEf-2ZlwQTjVyzYuZmz7-OBEKOKWZOxfccIR48oJU5-pB7SwMY=w408-h408-k-no",
+  "kgmid": "/g/11ffv_3s6g"
+},
+{
+  "title": "GESTION INMOBILIARIA",
+  "price": null,
+  "categoryName": "Agencia inmobiliaria",
+  "address": "Cochrane 1164, 4070120 Concepción, Bío Bío, Chile",
+  "neighborhood": null,
+  "street": "Cochrane 1164",
+  "city": "Concepción",
+  "postalCode": "4070120",
+  "state": "Bío Bío",
+  "countryCode": "CL",
+  "website": "http://realgestioninmobiliaria.cl/category/arriendo/",
+  "phone": "+56 9 9126 1249",
+  "phoneUnformatted": "+56991261249",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -36.8270522,
+    "lng": -73.0421684
+  },
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJZ1gBFdO1aZYRxoNB8JrEAhE",
+  "categories": [
+    "Agencia inmobiliaria"
+  ],
+  "fid": "0x9669b5d315015867:0x1102c49af04183c6",
+  "cid": "1225758218333029318",
+  "reviewsCount": 3,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 3
+  },
+  "imagesCount": 1,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:32:01.887Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=GESTION%20INMOBILIARIA&query_place_id=ChIJZ1gBFdO1aZYRxoNB8JrEAhE",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-36.83872604999999,-74.83637278992023,9z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 24,
+  "isAdvertisement": false,
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=WV9JsAq_8A0FVaUBqfVJvw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=135.13823&pitch=0&thumbfov=100",
+  "kgmid": "/g/11j0jk813q"
+},
+{
+  "title": "Nexo Consultores Profesionales",
+  "price": null,
+  "categoryName": "Urbanización",
+  "address": "Castellón 941, 4030310 Concepción, Bío Bío, Chile",
+  "neighborhood": null,
+  "street": "Castellón 941",
+  "city": "Concepción",
+  "postalCode": null,
+  "state": "Bío Bío",
+  "countryCode": "CL",
+  "website": "http://www.nexoconsultores.cl/",
+  "phone": "+56 41 246 3883",
+  "phoneUnformatted": "+56412463883",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -36.8208299,
+    "lng": -73.0502759
+  },
+  "totalScore": 4,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJs_2Y34G2aZYRh1K77Ok8UCg",
+  "categories": [
+    "Urbanización"
+  ],
+  "fid": "0x9669b681df98fdb3:0x28503ce9ecbb5287",
+  "cid": "2904888735050715783",
+  "reviewsCount": 8,
+  "reviewsDistribution": {
+    "oneStar": 2,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 6
+  },
+  "imagesCount": 1,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:32:01.887Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accesibilidad": [
+      {
+        "Entrada accesible para personas en silla de ruedas": false
+      },
+      {
+        "Estacionamiento accesible para personas en silla de ruedas": false
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Nexo%20Consultores%20Profesionales&query_place_id=ChIJs_2Y34G2aZYRh1K77Ok8UCg",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-36.83872604999999,-74.83637278992023,9z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 25,
+  "isAdvertisement": false,
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=jYRPI3cdNxToJZ2qKqZIDw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=239.6327&pitch=0&thumbfov=100",
+  "kgmid": "/g/12lvhd67d"
+},
+{
+  "title": "Invica Concepción",
+  "price": null,
+  "categoryName": "Agencia inmobiliaria",
+  "address": "Lincoyán 194, 4070271 Concepción, Bío Bío, Chile",
+  "neighborhood": null,
+  "street": "Lincoyán 194",
+  "city": "Concepción",
+  "postalCode": null,
+  "state": "Bío Bío",
+  "countryCode": "CL",
+  "website": "http://www.invica.cl/",
+  "phone": "+56 41 252 1291",
+  "phoneUnformatted": "+56412521291",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -36.8309693,
+    "lng": -73.0514814
+  },
+  "totalScore": 2.5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJT_7NXNe1aZYRsIQ1ACoZTT8",
+  "categories": [
+    "Agencia inmobiliaria"
+  ],
+  "fid": "0x9669b5d75ccdfe4f:0x3f4d192a003584b0",
+  "cid": "4561329665779008688",
+  "reviewsCount": 11,
+  "reviewsDistribution": {
+    "oneStar": 6,
+    "twoStar": 0,
+    "threeStar": 1,
+    "fourStar": 1,
+    "fiveStar": 3
+  },
+  "imagesCount": 3,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:32:01.887Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "miércoles",
+      "hours": "9 AM to 2 PM, 3 to 6 PM"
+    },
+    {
+      "day": "jueves",
+      "hours": "9 AM to 2 PM, 3 to 6 PM"
+    },
+    {
+      "day": "viernes",
+      "hours": "9 AM to 2 PM, 3 to 5 PM"
+    },
+    {
+      "day": "sábado",
+      "hours": "Cerrado"
+    },
+    {
+      "day": "domingo",
+      "hours": "Cerrado"
+    },
+    {
+      "day": "lunes",
+      "hours": "9 AM to 2 PM, 3 to 6 PM"
+    },
+    {
+      "day": "martes",
+      "hours": "9 AM to 2 PM, 3 to 6 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Invica%20Concepci%C3%B3n&query_place_id=ChIJT_7NXNe1aZYRsIQ1ACoZTT8",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-36.83872604999999,-74.83637278992023,9z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 26,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweruyEHpSXwneMVXGF4r7vboYdEU1fEoRRhOrRnEsE7w6jdFWWd9bcOeN6VbOozUKCh3HYZNC2AXEaTnYVO-BnyPmuBAPTK--cfmMK4jB-rvuLILBPcrAP2roe3ae4V0NwNPi56c=w408-h306-k-no",
+  "kgmid": "/g/11gg6g3mlt"
+},
+{
+  "title": "Villa El Aromo",
+  "price": null,
+  "categoryName": "Sociedad de viviendas",
+  "address": "Penco, Bío Bío, Chile",
+  "neighborhood": null,
+  "street": null,
+  "city": "Penco",
+  "postalCode": null,
+  "state": "Bío Bío",
+  "countryCode": "CL",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -36.7526342,
+    "lng": -72.9970783
+  },
+  "totalScore": 4.3,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJrwfUwJu1aZYREat1gbbKEL8",
+  "categories": [
+    "Sociedad de viviendas"
+  ],
+  "fid": "0x9669b59bc0d407af:0xbf10cab68175ab11",
+  "cid": "13767726946076437265",
+  "reviewsCount": 27,
+  "reviewsDistribution": {
+    "oneStar": 2,
+    "twoStar": 1,
+    "threeStar": 2,
+    "fourStar": 4,
+    "fiveStar": 18
+  },
+  "imagesCount": 1,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:32:01.887Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accesibilidad": [
+      {
+        "Entrada accesible para personas en silla de ruedas": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Villa%20El%20Aromo&query_place_id=ChIJrwfUwJu1aZYREat1gbbKEL8",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-36.83872604999999,-74.83637278992023,9z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 27,
+  "isAdvertisement": false,
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CXv_Dybw4RVQXxDJnDyq8A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=281.9017&pitch=0&thumbfov=100",
+  "kgmid": "/g/11j0q6lwcv"
+},
+{
+  "title": "CONSERVADOR DE BIENES RAÍCES, COMERCIO, MINAS Y ARCHIVERO JUDICIAL",
+  "price": null,
+  "categoryName": "Agencia inmobiliaria",
+  "address": "Los Carrera 284, 4200478 Coronel, Bío Bío, Chile",
+  "neighborhood": null,
+  "street": "Los Carrera 284",
+  "city": "Coronel",
+  "postalCode": null,
+  "state": "Bío Bío",
+  "countryCode": "CL",
+  "website": "http://www.conservadorcoronel.cl/",
+  "phone": "+56 41 271 1126",
+  "phoneUnformatted": "+56412711126",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -37.026156,
+    "lng": -73.1489689
+  },
+  "totalScore": 4,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ04qKbzDBaZYRIT_GXjk0I3M",
+  "categories": [
+    "Agencia inmobiliaria",
+    "Servicios legales"
+  ],
+  "fid": "0x9669c1306f8a8ad3:0x732334395ec63f21",
+  "cid": "8296532359554416417",
+  "reviewsCount": 126,
+  "reviewsDistribution": {
+    "oneStar": 18,
+    "twoStar": 5,
+    "threeStar": 12,
+    "fourStar": 20,
+    "fiveStar": 71
+  },
+  "imagesCount": 21,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:32:01.887Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "miércoles",
+      "hours": "8:30 AM to 1:30 PM, 3 to 4 PM"
+    },
+    {
+      "day": "jueves",
+      "hours": "8:30 AM to 1:30 PM, 3 to 4 PM"
+    },
+    {
+      "day": "viernes",
+      "hours": "8:30 AM to 1:30 PM, 3 to 4 PM"
+    },
+    {
+      "day": "sábado",
+      "hours": "Cerrado"
+    },
+    {
+      "day": "domingo",
+      "hours": "Cerrado"
+    },
+    {
+      "day": "lunes",
+      "hours": "8:30 AM to 1:30 PM, 3 to 4 PM"
+    },
+    {
+      "day": "martes",
+      "hours": "8:30 AM to 1:30 PM, 3 to 4 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accesibilidad": [
+      {
+        "Entrada accesible para personas en silla de ruedas": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=CONSERVADOR%20DE%20BIENES%20RA%C3%8DCES%2C%20COMERCIO%2C%20MINAS%20Y%20ARCHIVERO%20JUDICIAL&query_place_id=ChIJ04qKbzDBaZYRIT_GXjk0I3M",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-36.83872604999999,-74.83637278992023,9z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 28,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepWZBTfqSRDz01HemSSpTpF_J70nF6EidMXRKFy6TSwXc8V9epPkZmLHszShS4osiWOl37J4W6CLqCRkE7D5zIDkLCbe8QAT5dWpEC67InjztF-Q7kXe8ZEzPrufePykv5OfcJ5=w480-h240-k-no",
+  "kgmid": "/g/11f5jr5rqh"
+},
+{
+  "title": "KIRAN's PALACE",
+  "price": null,
+  "categoryName": "Sociedad de viviendas",
+  "address": "Santa Clara Island, Juan Fernández, Valparaíso, Chile",
+  "neighborhood": null,
+  "street": "Santa Clara Island",
+  "city": "Juan Fernández",
+  "postalCode": null,
+  "state": "Valparaíso",
+  "countryCode": "CL",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -33.7081921,
+    "lng": -78.9428411
+  },
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJN7YNUG-V_5YRSNJqRmI06_E",
+  "categories": [
+    "Sociedad de viviendas"
+  ],
+  "fid": "0x96ff956f500db637:0xf1eb3462466ad248",
+  "cid": "17432084379360481864",
+  "reviewsCount": null,
+  "imagesCount": null,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:32:06.668Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=KIRAN's%20PALACE&query_place_id=ChIJN7YNUG-V_5YRSNJqRmI06_E",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-33.6605,-78.86275435,12z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 1,
+  "isAdvertisement": false,
+  "kgmid": "/g/11vdp_v0mp"
+},
+{
+  "title": "Arriendo y Venta Propiedades",
+  "price": null,
+  "categoryName": "Oficinas de empresa",
+  "address": "Cumming 48, of. 33, 2380010 Valparaíso, Chile",
+  "neighborhood": null,
+  "street": "Cumming 48, of. 33",
+  "city": "Valparaíso",
+  "postalCode": null,
+  "state": "Valparaíso",
+  "countryCode": "CL",
+  "phone": "+56 9 9051 5632",
+  "phoneUnformatted": "+56990515632",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -33.0435315,
+    "lng": -71.6255689
+  },
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJUXNoKinhiZYRZXlHzGBfCq4",
+  "categories": [
+    "Oficinas de empresa"
+  ],
+  "fid": "0x9689e1292a687351:0xae0a5f60cc477965",
+  "cid": "12540940981715302757",
+  "reviewsCount": null,
+  "imagesCount": 1,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:32:06.669Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "miércoles",
+      "hours": "9 AM to 6 PM"
+    },
+    {
+      "day": "jueves",
+      "hours": "9 AM to 6 PM"
+    },
+    {
+      "day": "viernes",
+      "hours": "9 AM to 6 PM"
+    },
+    {
+      "day": "sábado",
+      "hours": "Cerrado"
+    },
+    {
+      "day": "domingo",
+      "hours": "Cerrado"
+    },
+    {
+      "day": "lunes",
+      "hours": "9 AM to 6 PM"
+    },
+    {
+      "day": "martes",
+      "hours": "9 AM to 6 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Arriendo%20y%20Venta%20Propiedades&query_place_id=ChIJUXNoKinhiZYRZXlHzGBfCq4",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-33.6605,-78.86275435,12z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 14,
+  "isAdvertisement": false,
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=qpkT5SJDyaGN-ya89aAY5A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=300.11172&pitch=0&thumbfov=100",
+  "kgmid": "/g/11g698v4zp"
+},
+{
+  "title": "Chile Sotheby´s International Realty - Puerto Varas",
+  "price": null,
+  "categoryName": "Agencia inmobiliaria",
+  "address": "Condor 948, 5550655 Puerto Varas, Los Lagos, Chile",
+  "neighborhood": null,
+  "street": "Condor 948",
+  "city": "Puerto Varas",
+  "postalCode": "5550655",
+  "state": "Los Lagos",
+  "countryCode": "CL",
+  "website": "http://www.chilesir.com/",
+  "phone": "+56 9 5608 5017",
+  "phoneUnformatted": "+56956085017",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -41.3202625,
+    "lng": -72.9788856
+  },
+  "totalScore": 3.7,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJwxzqiRUnGJYR7SghkmCaDdk",
+  "categories": [
+    "Agencia inmobiliaria"
+  ],
+  "fid": "0x9618271589ea1cc3:0xd90d9a60922128ed",
+  "cid": "15640326820486785261",
+  "reviewsCount": 3,
+  "reviewsDistribution": {
+    "oneStar": 1,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 2
+  },
+  "imagesCount": 4,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:32:11.248Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Chile%20Sotheby%C2%B4s%20International%20Realty%20-%20Puerto%20Varas&query_place_id=ChIJwxzqiRUnGJYR7SghkmCaDdk",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-41.03459157688414,-74.83637278992023,9z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 21,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoBIdNIdM2w5aGBQyF5a3M8wCe0MlLN54VtfdDVvNyDq9sQCQ8QXv3xADiEF8gKbbz6lQC-iEendHxxpKWWi4Qnx1bGnBsTA4CzQrRWJ1wMDEmTDVp__eTwip6rraEA4_vwFpUY3A=w408-h306-k-no",
+  "kgmid": "/g/11f7pbtqsp"
+},
+{
+  "title": "Ministerío de Bienes Nacionales",
+  "price": null,
+  "categoryName": "Agencia inmobiliaria",
+  "address": "Los Carrera 1291, 5312425 Osorno, Los Lagos, Chile",
+  "neighborhood": null,
+  "street": "Los Carrera 1291",
+  "city": "Osorno",
+  "postalCode": null,
+  "state": "Los Lagos",
+  "countryCode": "CL",
+  "website": "http://www.bienesnacionales.cl/",
+  "phone": "+56 800 104 559",
+  "phoneUnformatted": "+56800104559",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -40.5723741,
+    "lng": -73.1277828
+  },
+  "totalScore": 4.4,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ8cDUFGc2FpYRl10xIFqdhCw",
+  "categories": [
+    "Agencia inmobiliaria"
+  ],
+  "fid": "0x9616366714d4c0f1:0x2c849d5a20315d97",
+  "cid": "3207861845007359383",
+  "reviewsCount": 17,
+  "reviewsDistribution": {
+    "oneStar": 1,
+    "twoStar": 0,
+    "threeStar": 1,
+    "fourStar": 4,
+    "fiveStar": 11
+  },
+  "imagesCount": 1,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:32:11.248Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "miércoles",
+      "hours": "9 AM to 2 PM"
+    },
+    {
+      "day": "jueves",
+      "hours": "9 AM to 2 PM"
+    },
+    {
+      "day": "viernes",
+      "hours": "9 AM to 2 PM"
+    },
+    {
+      "day": "sábado",
+      "hours": "Cerrado"
+    },
+    {
+      "day": "domingo",
+      "hours": "Cerrado"
+    },
+    {
+      "day": "lunes",
+      "hours": "9 AM to 2 PM"
+    },
+    {
+      "day": "martes",
+      "hours": "9 AM to 2 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accesibilidad": [
+      {
+        "Entrada accesible para personas en silla de ruedas": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Minister%C3%ADo%20de%20Bienes%20Nacionales&query_place_id=ChIJ8cDUFGc2FpYRl10xIFqdhCw",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-41.03459157688414,-74.83637278992023,9z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 22,
+  "isAdvertisement": false,
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5ZxGVe70aozEHkqO95WgQQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=189.68773&pitch=0&thumbfov=100",
+  "kgmid": "/g/1tlvqqsv"
+},
+{
+  "title": "IVL Inversiones Inmobiliarias",
+  "price": null,
+  "categoryName": "Agencia inmobiliaria",
+  "address": "San Pedro Nº 190, Frutillar, Los Lagos, Chile",
+  "neighborhood": null,
+  "street": "San Pedro Nº 190",
+  "city": "Frutillar",
+  "postalCode": null,
+  "state": "Los Lagos",
+  "countryCode": "CL",
+  "phone": "+56 9 6573 3589",
+  "phoneUnformatted": "+56965733589",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -41.1229409,
+    "lng": -73.0562947
+  },
+  "totalScore": 2.4,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJzTjoTpqSF5YRXnKBZMw9N_4",
+  "categories": [
+    "Agencia inmobiliaria"
+  ],
+  "fid": "0x9617929a4ee838cd:0xfe373dcc6481725e",
+  "cid": "18318177957421609566",
+  "reviewsCount": 14,
+  "reviewsDistribution": {
+    "oneStar": 8,
+    "twoStar": 0,
+    "threeStar": 1,
+    "fourStar": 2,
+    "fiveStar": 3
+  },
+  "imagesCount": 3,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:32:11.248Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=IVL%20Inversiones%20Inmobiliarias&query_place_id=ChIJzTjoTpqSF5YRXnKBZMw9N_4",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-41.03459157688414,-74.83637278992023,9z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 23,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerdMClwufuPrjeXiQGDX63p9G-xp3N-nniSeBlI8QwdYaa8YpGwHRiWednwLfUce44WDhtN7UJH0-9Fb8s07gZ_0HSq_AUnkbX1i8cPF38N_R8Uy6c_OkNA9stqBKdKNL8ycsc=w408-h544-k-no",
+  "kgmid": "/g/11hyt0ytdq"
+},
+{
+  "title": "Molina Propiedades",
+  "price": null,
+  "categoryName": "Agencia inmobiliaria",
+  "address": "San Ignacio 1381, 5550000 Puerto Varas, Los Lagos, Chile",
+  "neighborhood": null,
+  "street": "San Ignacio 1381",
+  "city": "Puerto Varas",
+  "postalCode": "5550000",
+  "state": "Los Lagos",
+  "countryCode": "CL",
+  "website": "http://www.molinapropiedades.cl/",
+  "phone": "+56 9 9644 6959",
+  "phoneUnformatted": "+56996446959",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -41.3238694,
+    "lng": -72.9886456
+  },
+  "totalScore": 2.3,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJSb28ttcmGJYRLbOESfxnm38",
+  "categories": [
+    "Agencia inmobiliaria"
+  ],
+  "fid": "0x961826d7b6bcbd49:0x7f9b67fc4984b32d",
+  "cid": "9195057397469852461",
+  "reviewsCount": 3,
+  "reviewsDistribution": {
+    "oneStar": 2,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 1
+  },
+  "imagesCount": 7,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:32:11.248Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "miércoles",
+      "hours": "9 AM to 7 PM"
+    },
+    {
+      "day": "jueves",
+      "hours": "9 AM to 7 PM"
+    },
+    {
+      "day": "viernes",
+      "hours": "9 AM to 7 PM"
+    },
+    {
+      "day": "sábado",
+      "hours": "Cerrado"
+    },
+    {
+      "day": "domingo",
+      "hours": "Cerrado"
+    },
+    {
+      "day": "lunes",
+      "hours": "9 AM to 7 PM"
+    },
+    {
+      "day": "martes",
+      "hours": "9 AM to 7 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Opciones de servicio": [
+      {
+        "Citas en línea": true
+      },
+      {
+        "Servicios en el lugar": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Molina%20Propiedades&query_place_id=ChIJSb28ttcmGJYRLbOESfxnm38",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-41.03459157688414,-74.83637278992023,9z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 24,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwep_2BkX9qy3osdrE-mmdAjXpPOeYVy7rrMhhU_LMdIEt35jJOnTJhng5T0mk8HuilMPlr_fgmUuebNgWeJ3_KD21F4hv91BcO0iiNQl_HJhVmiS_JJdnNTBgM2F5fb38PZMkUo=w431-h240-k-no",
+  "kgmid": "/g/11bbrmsqyw"
+},
+{
+  "title": "Nothofagus Propiedades",
+  "price": null,
+  "categoryName": "Agencia inmobiliaria",
+  "address": "Del Salvador, 5550199 Puerto Varas, Los Lagos, Chile",
+  "neighborhood": null,
+  "street": "Del Salvador",
+  "city": "Puerto Varas",
+  "postalCode": null,
+  "state": "Los Lagos",
+  "countryCode": "CL",
+  "website": "http://www.nothofaguspropiedades.cl/",
+  "phone": "+56 9 7732 8066",
+  "phoneUnformatted": "+56977328066",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -41.3173941,
+    "lng": -72.9895454
+  },
+  "totalScore": 2.3,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJk5jqZpwoGJYREXoIySoqb_s",
+  "categories": [
+    "Agencia inmobiliaria",
+    "Agentes inmobiliarios"
+  ],
+  "fid": "0x9618289c66ea9893:0xfb6f2a2ac9087a11",
+  "cid": "18117746189184563729",
+  "reviewsCount": 3,
+  "reviewsDistribution": {
+    "oneStar": 2,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 1
+  },
+  "imagesCount": 4,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:32:11.248Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "miércoles",
+      "hours": "9 AM to 7 PM"
+    },
+    {
+      "day": "jueves",
+      "hours": "9 AM to 7 PM"
+    },
+    {
+      "day": "viernes",
+      "hours": "9 AM to 7 PM"
+    },
+    {
+      "day": "sábado",
+      "hours": "10 AM to 5 PM"
+    },
+    {
+      "day": "domingo",
+      "hours": "Cerrado"
+    },
+    {
+      "day": "lunes",
+      "hours": "9 AM to 7 PM"
+    },
+    {
+      "day": "martes",
+      "hours": "9 AM to 7 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Nothofagus%20Propiedades&query_place_id=ChIJk5jqZpwoGJYREXoIySoqb_s",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-41.03459157688414,-74.83637278992023,9z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 25,
+  "isAdvertisement": false,
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=jc2EY5d0el9dU97yGG_BAQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=356.36438&pitch=0&thumbfov=100",
+  "kgmid": "/g/11bwl3t5fv"
+},
+{
+  "title": "Puerto Principal Centro Comercial y Artesanal",
+  "price": null,
+  "categoryName": "Agencia inmobiliaria",
+  "address": "Pedro Montt 1951, 2362938 Valparaíso, Chile",
+  "neighborhood": null,
+  "street": "Pedro Montt 1951",
+  "city": "Valparaíso",
+  "postalCode": "2362938",
+  "state": "Valparaíso",
+  "countryCode": "CL",
+  "phone": "+56 32 221 6628",
+  "phoneUnformatted": "+56322216628",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -33.0467959,
+    "lng": -71.6164256
+  },
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": true,
+  "placeId": "ChIJV_c-stngiZYRP90g1CMjmIk",
+  "categories": [
+    "Agencia inmobiliaria"
+  ],
+  "fid": "0x9689e0d9b23ef757:0x89982323d420dd3f",
+  "cid": "9914713216445898047",
+  "reviewsCount": 2,
+  "imagesCount": 1,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:32:12.348Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Puerto%20Principal%20Centro%20Comercial%20y%20Artesanal&query_place_id=ChIJV_c-stngiZYRP90g1CMjmIk",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-17.957331179021324,-71.0638862,9z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 16,
+  "isAdvertisement": false,
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=TWlhwn8fE1csDrEb3Zh2Ag&cb_client=search.gws-prod.gps&w=408&h=240&yaw=0.4536381&pitch=0&thumbfov=100",
+  "kgmid": "/g/1tc_59jf"
+},
+{
+  "title": "Valparaiso",
+  "price": null,
+  "address": "Cerro Barón, Valparaíso, Villarrica, Araucanía, Chile",
+  "neighborhood": null,
+  "street": "Cerro Barón",
+  "city": "Valparaíso, Villarrica",
+  "postalCode": null,
+  "state": "Araucanía",
+  "countryCode": "CL",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -39.4869535,
+    "lng": -72.1525407
+  },
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ871dOQBtFJYRRU_c_TaxQ2k",
+  "categories": [],
+  "fid": "0x96146d00395dbdf3:0x6943b136fddc4f45",
+  "cid": "7585101047167471429",
+  "reviewsCount": null,
+  "imagesCount": 1,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:32:18.834Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Valparaiso&query_place_id=ChIJ871dOQBtFJYRRU_c_TaxQ2k",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-38.936658813442065,-71.0638862,9z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 1,
+  "isAdvertisement": false,
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0mYTnNiQlagM_lPKfuMfsQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=40.22108&pitch=0&thumbfov=100",
+  "kgmid": "/g/11y8rg_gw1"
+},
+{
+  "title": "El Solar de Pucón",
+  "price": null,
+  "categoryName": "Condominio",
+  "address": "39°18'22. 72°02'19.6\"W, Chile 6, Valparaíso, Región de Valparaíso, Chile",
+  "neighborhood": null,
+  "street": "39°18'22. 72°02'19.6\"W, Chile 6",
+  "city": "Valparaíso, Pucón",
+  "postalCode": null,
+  "state": "Región de Valparaíso",
+  "countryCode": "CL",
+  "phone": "+56 2 2348 1920",
+  "phoneUnformatted": "+56223481920",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -39.3062554,
+    "lng": -72.038772
+  },
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJh1g5zax-FJYRCcnjOjIDnro",
+  "categories": [
+    "Condominio"
+  ],
+  "fid": "0x96147eaccd395887:0xba9e03323ae3c909",
+  "cid": "13447189051646134537",
+  "reviewsCount": 3,
+  "imagesCount": 8,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:32:18.834Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=El%20Solar%20de%20Puc%C3%B3n&query_place_id=ChIJh1g5zax-FJYRCcnjOjIDnro",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-38.936658813442065,-71.0638862,9z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 2,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerwxiDvYPhfFw8MrGvKCAK16H7oWIGLdlTCR1lCF2-DeBkUwQF1WpMyS_1Uz3Rk9Ju4dqArwnzoU8VvEu_L18HqTq0z6w248epMz3kGGtKJvVTDe01cUV8Kj60QGgiIiL0cHtJ7=w426-h240-k-no",
+  "kgmid": "/g/11cpjfbh31"
+},
+{
+  "title": "1.- JUAN PABLO GONZALEZ RODRIGUEZ",
+  "price": null,
+  "categoryName": "Urbanización",
+  "address": "Valparaiso 111, 5250008 Ranco, Lago Ranco, Los Ríos, Chile",
+  "neighborhood": null,
+  "street": "Valparaiso 111",
+  "city": "Ranco, Lago Ranco",
+  "postalCode": "5250008",
+  "state": "Los Ríos",
+  "countryCode": "CL",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -40.3218623,
+    "lng": -72.4834012
+  },
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ92XiHwDtFpYRHj69MFLZBWU",
+  "categories": [
+    "Urbanización"
+  ],
+  "fid": "0x9616ed001fe265f7:0x6505d95230bd3e1e",
+  "cid": "7279463319742529054",
+  "reviewsCount": null,
+  "imagesCount": null,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:32:18.999Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=1.-%20JUAN%20PABLO%20GONZALEZ%20RODRIGUEZ&query_place_id=ChIJ92XiHwDtFpYRHj69MFLZBWU",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-41.03459157688414,-71.0638862,9z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 21,
+  "isAdvertisement": false,
+  "kgmid": "/g/11mzpmqqxf"
+},
+{
+  "title": "Torre Del Puerto",
+  "price": null,
+  "categoryName": "Oficinas de empresa",
+  "address": "Antonio Varas 216, Puerto Montt, Los Lagos, Chile",
+  "neighborhood": null,
+  "street": "Antonio Varas 216",
+  "city": "Puerto Montt",
+  "postalCode": null,
+  "state": "Los Lagos",
+  "countryCode": "CL",
+  "phone": "+56 9 6428 4158",
+  "phoneUnformatted": "+56964284158",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -41.4716099,
+    "lng": -72.936917
+  },
+  "totalScore": 4.2,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJVycVUlA6GJYReNk9Tz9ZcxI",
+  "categories": [
+    "Oficinas de empresa"
+  ],
+  "fid": "0x96183a5052152757:0x1273593f4f3dd978",
+  "cid": "1329504443451693432",
+  "reviewsCount": 30,
+  "reviewsDistribution": {
+    "oneStar": 2,
+    "twoStar": 0,
+    "threeStar": 3,
+    "fourStar": 9,
+    "fiveStar": 16
+  },
+  "imagesCount": 14,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:32:18.999Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accesibilidad": [
+      {
+        "Entrada accesible para personas en silla de ruedas": true
+      },
+      {
+        "Estacionamiento accesible para personas en silla de ruedas": true
+      }
+    ],
+    "Servicios": [
+      {
+        "Sanitario": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Torre%20Del%20Puerto&query_place_id=ChIJVycVUlA6GJYReNk9Tz9ZcxI",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-41.03459157688414,-71.0638862,9z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 22,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweru7DwwgplDGghdvAknaAhvbJWhMMAkJdi6JfBRwVTWaQ3eZGfqyzUIZGlfrXmxujhb0xrHm6LdYuv37R60wMg1zECoqQ93O1Te_K8pibgmosnJEvKA1BtOUJY5luP8L9b_oYkg=w408-h728-k-no",
+  "kgmid": "/g/11f1jv9z5v"
+},
+{
+  "title": "Departamento Gimar",
+  "price": null,
+  "categoryName": "Empresa de alojamiento web",
+  "address": "Condominio Alto La Paloma, Volcán Corcovado 5582, 5480000 Puerto Montt, Los Lagos, Chile",
+  "neighborhood": null,
+  "street": "Condominio Alto La Paloma, Volcán Corcovado 5582",
+  "city": "Puerto Montt",
+  "postalCode": "5480000",
+  "state": "Los Lagos",
+  "countryCode": "CL",
+  "website": "http://www.gimar.cl/",
+  "phone": "+56 9 9893 1167",
+  "phoneUnformatted": "+56998931167",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -41.4566837,
+    "lng": -72.9168613
+  },
+  "totalScore": 4.7,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJcSaflt47GJYRCcdmmImUISo",
+  "categories": [
+    "Empresa de alojamiento web"
+  ],
+  "fid": "0x96183bde969f2671:0x2a2194899866c709",
+  "cid": "3035870942512727817",
+  "reviewsCount": 3,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 1,
+    "fiveStar": 2
+  },
+  "imagesCount": 12,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:32:18.999Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "miércoles",
+      "hours": "8:30 AM to 11 PM"
+    },
+    {
+      "day": "jueves",
+      "hours": "8:30 AM to 11 PM"
+    },
+    {
+      "day": "viernes",
+      "hours": "8:30 AM to 11 PM"
+    },
+    {
+      "day": "sábado",
+      "hours": "8:30 AM to 11 PM"
+    },
+    {
+      "day": "domingo",
+      "hours": "8:30 AM to 11 PM"
+    },
+    {
+      "day": "lunes",
+      "hours": "8:30 AM to 11 PM"
+    },
+    {
+      "day": "martes",
+      "hours": "8:30 AM to 11 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Departamento%20Gimar&query_place_id=ChIJcSaflt47GJYRCcdmmImUISo",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-41.03459157688414,-71.0638862,9z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 23,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweo6LxoYDf7lDJQSjuuEceORFwVu1edXczd3vs6tFM6AVL875lWW0-fYEdlXJYXZVNoICHag9sG2z0JTFKhZ9DTY_2F2BXug4zW1omRtSU2p7r2-Tk3nNZqUA6zAKCN2hmsVHqU=w408-h306-k-no",
+  "kgmid": "/g/11fcq35knv"
+},
+{
+  "title": "Torres de Valparaíso",
+  "price": null,
+  "categoryName": "Condominio",
+  "address": "Valparaíso 291, 4790349 Temuco, Araucanía, Chile",
+  "neighborhood": null,
+  "street": "Valparaíso 291",
+  "city": "Temuco",
+  "postalCode": "4790349",
+  "state": "Araucanía",
+  "countryCode": "CL",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -38.7298409,
+    "lng": -72.567068
+  },
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJAfJnBwDTFJYRIrQJg6bX7vo",
+  "categories": [
+    "Condominio"
+  ],
+  "fid": "0x9614d3000767f201:0xfaeed7a68309b422",
+  "cid": "18081626664102114338",
+  "reviewsCount": 1,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 1
+  },
+  "imagesCount": 2,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:32:20.821Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accesibilidad": [
+      {
+        "Entrada accesible para personas en silla de ruedas": true
+      },
+      {
+        "Estacionamiento accesible para personas en silla de ruedas": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Torres%20de%20Valpara%C3%ADso&query_place_id=ChIJAfJnBwDTFJYRIrQJg6bX7vo",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-38.936658813442065,-71.0638862,9z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 21,
+  "isAdvertisement": false,
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=UzuPypEuADWAdlg3qc29MQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=104.82735&pitch=0&thumbfov=100",
+  "kgmid": "/g/11vpyxyldr"
+},
+{
+  "title": "Valparaíso 291",
+  "price": null,
+  "categoryName": "Condominio",
+  "address": "Manuel Montt 1640, 4791187 Temuco, Araucanía, Chile",
+  "neighborhood": null,
+  "street": "Manuel Montt 1640",
+  "city": "Temuco",
+  "postalCode": "4791187",
+  "state": "Araucanía",
+  "countryCode": "CL",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -38.7403518,
+    "lng": -72.5781192
+  },
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJq4GPBwDTFJYRWyD-U5IpWog",
+  "categories": [
+    "Condominio"
+  ],
+  "fid": "0x9614d300078f81ab:0x885a299253fe205b",
+  "cid": "9825211245513285723",
+  "reviewsCount": 1,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 1
+  },
+  "imagesCount": 1,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:32:20.821Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Valpara%C3%ADso%20291&query_place_id=ChIJq4GPBwDTFJYRWyD-U5IpWog",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-38.936658813442065,-71.0638862,9z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 22,
+  "isAdvertisement": false,
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=y7jI94wfayIEnl9kvR5bsg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=182.07239&pitch=0&thumbfov=100",
+  "kgmid": "/g/11x7m_np7g"
+},
+{
+  "title": "valparaiso 285 interior",
+  "price": null,
+  "categoryName": "Sociedad de viviendas",
+  "address": "Valparaíso 285, 4790349 Temuco, Araucanía, Chile",
+  "neighborhood": null,
+  "street": "Valparaíso 285",
+  "city": "Temuco",
+  "postalCode": null,
+  "state": "Araucanía",
+  "countryCode": "CL",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -38.7293908,
+    "lng": -72.5670913
+  },
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJFY0gCADTFJYRSCRIL1RLX8Y",
+  "categories": [
+    "Sociedad de viviendas"
+  ],
+  "fid": "0x9614d30008208d15:0xc65f4b542f482448",
+  "cid": "14294226567239836744",
+  "reviewsCount": null,
+  "imagesCount": 1,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:32:20.821Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=valparaiso%20285%20interior&query_place_id=ChIJFY0gCADTFJYRSCRIL1RLX8Y",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-38.936658813442065,-71.0638862,9z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 24,
+  "isAdvertisement": false,
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=IDP72Bp-I0yn_C9mrG2Sgg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=56.611855&pitch=0&thumbfov=100",
+  "kgmid": "/g/11wvnt67_9"
+},
+{
+  "title": "Torre Cerro Alegre",
+  "price": null,
+  "categoryName": "Edificio de apartamentos amueblados",
+  "address": "Av., Valparaíso 291, Temuco, Araucanía, Chile",
+  "neighborhood": null,
+  "street": "Av., Valparaíso 291",
+  "city": "Temuco",
+  "postalCode": null,
+  "state": "Araucanía",
+  "countryCode": "CL",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -38.7298535,
+    "lng": -72.5668726
+  },
+  "totalScore": 4.4,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJB8650DLSFJYR0caMqOFDZfg",
+  "categories": [
+    "Edificio de apartamentos amueblados"
+  ],
+  "fid": "0x9614d232d0b9ce07:0xf86543e1a88cc6d1",
+  "cid": "17898786930528405201",
+  "reviewsCount": 18,
+  "reviewsDistribution": {
+    "oneStar": 1,
+    "twoStar": 1,
+    "threeStar": 0,
+    "fourStar": 4,
+    "fiveStar": 12
+  },
+  "imagesCount": 6,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:32:20.821Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accesibilidad": [
+      {
+        "Entrada accesible para personas en silla de ruedas": true
+      },
+      {
+        "Estacionamiento accesible para personas en silla de ruedas": true
+      }
+    ],
+    "Mascotas": [
+      {
+        "Se permiten perros": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Torre%20Cerro%20Alegre&query_place_id=ChIJB8650DLSFJYR0caMqOFDZfg",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-38.936658813442065,-71.0638862,9z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 25,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweraIXUADG_uxYqcRnLhwhxE2J41h0-zWHhdG9eDeOZv9ZYBA_40UaXty0yMBw5Hw4udLbRRHJQyR5AWM0YBOh8SmRUahuEjO1swRBfXcvIX2TyLbN_kMAt5kMI0PRUM2y7VNupTiA=w408-h266-k-no",
+  "kgmid": "/g/11bw64jj3z"
+},
+{
+  "title": "Condominio domeyko",
+  "price": null,
+  "categoryName": "Condominio",
+  "address": "23°33'39. 70°23'16.6\"W, Chile 2, Valparaíso, Región de Valparaíso, Chile",
+  "neighborhood": null,
+  "street": "23°33'39. 70°23'16.6\"W, Chile 2",
+  "city": "Valparaíso, Antofagasta",
+  "postalCode": null,
+  "state": "Región de Valparaíso",
+  "countryCode": "CL",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -23.560881,
+    "lng": -70.3879254
+  },
+  "totalScore": 4.1,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJXS38RkwqrpYRnsMjmVQ8NFA",
+  "categories": [
+    "Condominio"
+  ],
+  "fid": "0x96ae2a4c46fc2d5d:0x50343c549923c39e",
+  "cid": "5779310555867366302",
+  "reviewsCount": 51,
+  "imagesCount": 18,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:32:22.179Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accesibilidad": [
+      {
+        "Entrada accesible para personas en silla de ruedas": true
+      },
+      {
+        "Estacionamiento accesible para personas en silla de ruedas": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Condominio%20domeyko&query_place_id=ChIJXS38RkwqrpYRnsMjmVQ8NFA",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-24.251129469347546,-71.0638862,9z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 1,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwep7KdH3C7fXc94-_KIU1Y2VYJ1MvxHBsviGHbzbm-PM2xLAn54zx1X0xUK13yMU88NEkhvLV7N0anM0F0FKogNt3MRoW0rk9qap2u-aYD57QA4RQXas7s4XYXO-E_sQI6aAUGZE=w426-h240-k-no",
+  "kgmid": "/g/11c4_y8q97"
+},
+{
+  "title": "Conservador de Bienes Raíces - Antofagasta",
+  "price": null,
+  "categoryName": "Agencia inmobiliaria",
+  "address": "Av. Balmaceda 2516, Antofagasta, Chile",
+  "neighborhood": null,
+  "street": "Av. Balmaceda 2516",
+  "city": "Antofagasta",
+  "postalCode": null,
+  "state": "Antofagasta",
+  "countryCode": "CL",
+  "website": "https://www.cbrantofagasta.cl/",
+  "phone": "+56 55 251 7900",
+  "phoneUnformatted": "+56552517900",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -23.6461944,
+    "lng": -70.4002404
+  },
+  "totalScore": 3.6,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJT0EZ9j3Vr5YRwmPmkgaTOEc",
+  "categories": [
+    "Agencia inmobiliaria"
+  ],
+  "fid": "0x96afd53df619414f:0x4738930692e663c2",
+  "cid": "5132013431832339394",
+  "reviewsCount": 373,
+  "reviewsDistribution": {
+    "oneStar": 82,
+    "twoStar": 23,
+    "threeStar": 43,
+    "fourStar": 49,
+    "fiveStar": 176
+  },
+  "imagesCount": 15,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:32:22.909Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "miércoles",
+      "hours": "9 AM to 2 PM"
+    },
+    {
+      "day": "jueves",
+      "hours": "9 AM to 2 PM"
+    },
+    {
+      "day": "viernes",
+      "hours": "9 AM to 2 PM"
+    },
+    {
+      "day": "sábado",
+      "hours": "Cerrado"
+    },
+    {
+      "day": "domingo",
+      "hours": "Cerrado"
+    },
+    {
+      "day": "lunes",
+      "hours": "9 AM to 2 PM"
+    },
+    {
+      "day": "martes",
+      "hours": "9 AM to 2 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accesibilidad": [
+      {
+        "Entrada accesible para personas en silla de ruedas": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Conservador%20de%20Bienes%20Ra%C3%ADces%20-%20Antofagasta&query_place_id=ChIJT0EZ9j3Vr5YRwmPmkgaTOEc",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-24.251129469347546,-71.0638862,9z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 22,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN36AVkHEpFAF1M7MsJSmA-v8ob-2EpoYwVfxpz=w408-h271-k-no",
+  "kgmid": "/g/11fy4z62p5"
+},
+{
+  "title": "Condominio Palmas del Sur 2 - RVC",
+  "price": null,
+  "categoryName": "Edificio de apartamentos",
+  "address": "Av. Jaime Guzmán Errázuriz 04080, 1272044 Antofagasta, Chile",
+  "neighborhood": null,
+  "street": "Av. Jaime Guzmán Errázuriz 04080",
+  "city": "Antofagasta",
+  "postalCode": "1272044",
+  "state": "Antofagasta",
+  "countryCode": "CL",
+  "website": "https://www.rvc.cl/proyecto/condominio-palmas-del-sur-ii/",
+  "phone": "+56 9 6608 8985",
+  "phoneUnformatted": "+56966088985",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -23.7169076,
+    "lng": -70.4337238
+  },
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJm3Zhos0rsJYR_C5M1pXCKQU",
+  "categories": [
+    "Edificio de apartamentos"
+  ],
+  "fid": "0x96b02bcda261769b:0x529c295d64c2efc",
+  "cid": "372042393036009212",
+  "reviewsCount": 2,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 2
+  },
+  "imagesCount": 12,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:32:22.909Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accesibilidad": [
+      {
+        "Entrada accesible para personas en silla de ruedas": true
+      },
+      {
+        "Estacionamiento accesible para personas en silla de ruedas": true
+      }
+    ],
+    "Servicios": [
+      {
+        "Piscina": true
+      }
+    ],
+    "Mascotas": [
+      {
+        "Se permiten perros": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Condominio%20Palmas%20del%20Sur%202%20-%20RVC&query_place_id=ChIJm3Zhos0rsJYR_C5M1pXCKQU",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-24.251129469347546,-71.0638862,9z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 23,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipM8uzoRIX3web-A4bP7nnJOgUrBbDYbksGGExXN=w458-h240-k-no",
+  "kgmid": "/g/11ssmz1v3_"
+},
+{
+  "title": "Debussy Propiedades",
+  "price": null,
+  "categoryName": "Agencia inmobiliaria",
+  "address": "Serrano 543, 2340000 Valparaíso, Chile",
+  "neighborhood": null,
+  "street": "Serrano 543",
+  "city": "Valparaíso",
+  "postalCode": "2340000",
+  "state": "Valparaíso",
+  "countryCode": "CL",
+  "website": "http://debussy.cl/",
+  "phone": "+56 9 8906 3112",
+  "phoneUnformatted": "+56989063112",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -33.0382438,
+    "lng": -71.6297056
+  },
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJEZUtafLhiZYRTPnOKMjPWV4",
+  "categories": [
+    "Agencia inmobiliaria"
+  ],
+  "fid": "0x9689e1f2692d9511:0x5e59cfc828cef94c",
+  "cid": "6798693571077536076",
+  "reviewsCount": 11,
+  "imagesCount": 14,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:32:27.305Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "miércoles",
+      "hours": "9 AM to 7 PM"
+    },
+    {
+      "day": "jueves",
+      "hours": "9 AM to 7 PM"
+    },
+    {
+      "day": "viernes",
+      "hours": "9 AM to 7 PM"
+    },
+    {
+      "day": "sábado",
+      "hours": "9 AM to 7 PM"
+    },
+    {
+      "day": "domingo",
+      "hours": "Cerrado"
+    },
+    {
+      "day": "lunes",
+      "hours": "9 AM to 7 PM"
+    },
+    {
+      "day": "martes",
+      "hours": "9 AM to 7 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Debussy%20Propiedades&query_place_id=ChIJEZUtafLhiZYRTPnOKMjPWV4",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-33.430964130479275,-79.13934540392763,12z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 8,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNxzYmxZhS5QZ1wU2e4P7wzNbh9DrZAFX1lNHHE=w408-h272-k-no",
+  "kgmid": "/g/11v0164hvh"
+},
+{
+  "title": "Cobija 3240",
+  "price": null,
+  "categoryName": "Edificio de apartamentos",
+  "address": "Valparaíso 2620, 1391663 Calama, Antofagasta, Chile",
+  "neighborhood": null,
+  "street": "Valparaíso 2620",
+  "city": "Calama",
+  "postalCode": "1391663",
+  "state": "Antofagasta",
+  "countryCode": "CL",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -22.4697797,
+    "lng": -68.9383809
+  },
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJm4k5-fcJrJYRmECDAffqgb8",
+  "categories": [
+    "Edificio de apartamentos"
+  ],
+  "fid": "0x96ac09f7f939899b:0xbf81eaf701834098",
+  "cid": "13799569079843111064",
+  "reviewsCount": null,
+  "imagesCount": 1,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:32:38.876Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Cobija%203240&query_place_id=ChIJm4k5-fcJrJYRmECDAffqgb8",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-22.153196705905472,-67.29139961007976,9z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 21,
+  "isAdvertisement": false,
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=iVWReJ4iFf1emzqq7FM2gQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=195.0786&pitch=0&thumbfov=100",
+  "kgmid": "/g/11vkrgr_mn"
+},
+{
+  "title": "La Casa de la Costura",
+  "price": null,
+  "categoryName": "Agencia inmobiliaria",
+  "address": "Salvador Donoso 1402, 2362840 Valparaíso, Chile",
+  "neighborhood": null,
+  "street": "Salvador Donoso 1402",
+  "city": "Valparaíso",
+  "postalCode": null,
+  "state": "Valparaíso",
+  "countryCode": "CL",
+  "phone": "+56 32 223 3885",
+  "phoneUnformatted": "+56322233885",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -33.0449348,
+    "lng": -71.6223741
+  },
+  "totalScore": 3.8,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJG2s5ZCjhiZYRA76IORq9tDk",
+  "categories": [
+    "Agencia inmobiliaria"
+  ],
+  "fid": "0x9689e12864396b1b:0x39b4bd1a3988be03",
+  "cid": "4158156276301872643",
+  "reviewsCount": 19,
+  "imagesCount": 3,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:32:40.498Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "miércoles",
+      "hours": "10 AM to 2 PM, 3 to 5:30 PM"
+    },
+    {
+      "day": "jueves",
+      "hours": "10 AM to 2 PM, 3 to 5:30 PM"
+    },
+    {
+      "day": "viernes",
+      "hours": "10 AM to 2 PM, 3 to 5:30 PM"
+    },
+    {
+      "day": "sábado",
+      "hours": "10 AM to 1 PM"
+    },
+    {
+      "day": "domingo",
+      "hours": "Cerrado"
+    },
+    {
+      "day": "lunes",
+      "hours": "10 AM to 2 PM, 3 to 5:30 PM"
+    },
+    {
+      "day": "martes",
+      "hours": "10 AM to 2 PM, 3 to 5:30 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accesibilidad": [
+      {
+        "Estacionamiento accesible para personas en silla de ruedas": false
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=La%20Casa%20de%20la%20Costura&query_place_id=ChIJG2s5ZCjhiZYRA76IORq9tDk",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-26.441975967665222,-80.26705628576494,12z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 18,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwep7L_4VIhlyAG2-7PVoHgsmnXUYUIbRjRQNYnN4LIfcHIN-TqYWnHUR0NcqufazQbCfO1GniTFRh0BRMV_btb_WlTIqX5kenLy_aLXdAI8YVpK-BWfP1mUjGT14L9wWv13YtfqH=w408-h725-k-no",
+  "kgmid": "/g/1tyyyb7g"
+},
+{
+  "title": "Edificio Geopark",
+  "price": null,
+  "categoryName": "Edificio de apartamentos",
+  "address": "Morris 776, 2340000 Valparaíso, Chile",
+  "neighborhood": null,
+  "street": "Morris 776",
+  "city": "Valparaíso",
+  "postalCode": "2340000",
+  "state": "Valparaíso",
+  "countryCode": "CL",
+  "phone": "+56 9 4289 9384",
+  "phoneUnformatted": "+56942899384",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -33.0508762,
+    "lng": -71.6093292
+  },
+  "totalScore": 4.3,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJLxt3v9zgiZYRiR9DFW7jnuc",
+  "categories": [
+    "Edificio de apartamentos"
+  ],
+  "fid": "0x9689e0dcbf771b2f:0xe79ee36e15431f89",
+  "cid": "16690027331024265097",
+  "reviewsCount": 21,
+  "imagesCount": 23,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:32:43.167Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accesibilidad": [
+      {
+        "Entrada accesible para personas en silla de ruedas": true
+      },
+      {
+        "Estacionamiento accesible para personas en silla de ruedas": true
+      }
+    ],
+    "Servicios": [
+      {
+        "Jacuzzi": true
+      },
+      {
+        "Piscina": true
+      }
+    ],
+    "Mascotas": [
+      {
+        "Se permiten perros": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Edificio%20Geopark&query_place_id=ChIJLxt3v9zgiZYRiR9DFW7jnuc",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-27.373311188449026,-109.3414487,12z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 19,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqGb3YIjktFbYsx7zExZLsqm17eX01cfh2xg4DtIE2n3KimsJAlWn0Q3xIyJXlkMo_K8Xmeblq9UqzMjslGA4mfm0gNubLHATwB78x-JLZaW0O_MQs1eezpsIUhxRqrTuH0k78WH_husng=w408-h543-k-no",
+  "kgmid": "/g/11cmdkzdj6"
+},
+{
+  "title": "No existe",
+  "price": null,
+  "categoryName": "Agencia de alquiler de alojamientos para vacaciones",
+  "address": "Kahu Mahau, Isla de Pascua, Valparaíso, Chile",
+  "neighborhood": null,
+  "street": "Kahu Mahau",
+  "city": "Isla de Pascua",
+  "postalCode": null,
+  "state": "Valparaíso",
+  "countryCode": "CL",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -27.1343563,
+    "lng": -109.4208324
+  },
+  "totalScore": 4.8,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJfz5cLuP6R5kROBDHXXL-ek8",
+  "categories": [
+    "Agencia de alquiler de alojamientos para vacaciones"
+  ],
+  "fid": "0x9947fae32e5c3e7f:0x4f7afe725dc71038",
+  "cid": "5727169643308060728",
+  "reviewsCount": 28,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 1,
+    "fourStar": 4,
+    "fiveStar": 23
+  },
+  "imagesCount": 85,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:32:45.664Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "miércoles",
+      "hours": "Abierto las 24 horas"
+    },
+    {
+      "day": "jueves",
+      "hours": "Abierto las 24 horas"
+    },
+    {
+      "day": "viernes",
+      "hours": "Abierto las 24 horas"
+    },
+    {
+      "day": "sábado",
+      "hours": "Abierto las 24 horas"
+    },
+    {
+      "day": "domingo",
+      "hours": "Abierto las 24 horas"
+    },
+    {
+      "day": "lunes",
+      "hours": "Abierto las 24 horas"
+    },
+    {
+      "day": "martes",
+      "hours": "Abierto las 24 horas"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Opciones de servicio": [
+      {
+        "Citas en línea": false
+      },
+      {
+        "Servicios en el lugar": false
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=No%20existe&query_place_id=ChIJfz5cLuP6R5kROBDHXXL-ek8",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-27.128,-109.61776032234634,12z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 21,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwep_RUKfbwjh6ILKZUoxKUv_nAFkGtxPoH_NdeTeeDq4PqhADykuo65Ois2WC-Z_0vqGEXjndK6G2Hi5W8mvY_wGTb840jaD2HxKJ_Y_cD79Szszn8SNijmvqFawbBkYIShhnmYZ=w408-h306-k-no",
+  "kgmid": "/g/11cp5hbqhr"
+},
+{
+  "title": "Uka Moana en Easter Island",
+  "price": null,
+  "categoryName": "Agencia de alquiler de cabañas",
+  "address": "sin numero - Ara Piki, 2770000 Isla de Pascua, Valparaíso, Chile",
+  "neighborhood": null,
+  "street": "sin numero - Ara Piki",
+  "city": "Isla de Pascua",
+  "postalCode": "2770000",
+  "state": "Valparaíso",
+  "countryCode": "CL",
+  "phone": "+56 9 8293 3983",
+  "phoneUnformatted": "+56982933983",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -27.1397696,
+    "lng": -109.40957
+  },
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJoYwTbQX7R5kRk-tL_UFP9aY",
+  "categories": [
+    "Agencia de alquiler de cabañas"
+  ],
+  "fid": "0x9947fb056d138ca1:0xa6f54f41fd4beb93",
+  "cid": "12030609124431227795",
+  "reviewsCount": 3,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 3
+  },
+  "imagesCount": 21,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:32:45.664Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "miércoles",
+      "hours": "9 AM to 5 PM"
+    },
+    {
+      "day": "jueves",
+      "hours": "9 AM to 5 PM"
+    },
+    {
+      "day": "viernes",
+      "hours": "9 AM to 5 PM"
+    },
+    {
+      "day": "sábado",
+      "hours": "9 AM to 5 PM"
+    },
+    {
+      "day": "domingo",
+      "hours": "9 AM to 5 PM"
+    },
+    {
+      "day": "lunes",
+      "hours": "9 AM to 5 PM"
+    },
+    {
+      "day": "martes",
+      "hours": "9 AM to 5 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Uka%20Moana%20en%20Easter%20Island&query_place_id=ChIJoYwTbQX7R5kRk-tL_UFP9aY",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-27.128,-109.61776032234634,12z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 22,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerrDYWRMvvyeYSnSJF2hypsWm0GMc6oQWctBeD3JD29vxfbUKMmkymvyf8O_jhT1YNiKR-e0yjjSg38rfogYRBhJh4oaMwrwq8_lB_AldLNCq4l3MDL_lVN6lKesmvW06HmskA=w408-h306-k-no",
+  "kgmid": "/g/11y1bytgtt"
+},
+{
+  "title": "Casa Heticor🏠",
+  "price": null,
+  "categoryName": "Urbanización",
+  "address": "Tu'u Koihu S/N, Hanga Roa, Isla de Pascua, Valparaíso, Chile",
+  "neighborhood": null,
+  "street": "Tu'u Koihu S/N",
+  "city": "Hanga Roa, Isla de Pascua",
+  "postalCode": null,
+  "state": "Valparaíso",
+  "countryCode": "CL",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -27.1553812,
+    "lng": -109.4262686
+  },
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJjUB4RwD7R5kRCouc2PPZT_8",
+  "categories": [
+    "Urbanización"
+  ],
+  "fid": "0x9947fb004778408d:0xff4fd9f3d89c8b0a",
+  "cid": "18397162644166183690",
+  "reviewsCount": null,
+  "imagesCount": null,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:32:45.664Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Casa%20Heticor%F0%9F%8F%A0&query_place_id=ChIJjUB4RwD7R5kRCouc2PPZT_8",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-27.128,-109.61776032234634,12z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 23,
+  "isAdvertisement": false,
+  "kgmid": "/g/11yhbkhqvf"
+},
+{
+  "title": "Casa isla",
+  "price": null,
+  "categoryName": "Sociedad de viviendas",
+  "address": "RHVH+R5, Hanga Roa, Isla de Pascua, Valparaíso, Chile",
+  "neighborhood": null,
+  "street": "RHVH+R5",
+  "city": "Hanga Roa, Isla de Pascua",
+  "postalCode": null,
+  "state": "Valparaíso",
+  "countryCode": "CL",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -27.1554769,
+    "lng": -109.4220431
+  },
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJlwgjRon7R5kRClvxEMp1Uf0",
+  "categories": [
+    "Sociedad de viviendas"
+  ],
+  "fid": "0x9947fb8946230897:0xfd5175ca10f15b0a",
+  "cid": "18253500275437427466",
+  "reviewsCount": 1,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 1
+  },
+  "imagesCount": null,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:32:45.664Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Casa%20isla&query_place_id=ChIJlwgjRon7R5kRClvxEMp1Uf0",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-27.128,-109.61776032234634,12z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 24,
+  "isAdvertisement": false,
+  "kgmid": "/g/11sk5jjlcs"
+},
+{
+  "title": "Oggy house",
+  "price": null,
+  "categoryName": "Sociedad de viviendas",
+  "address": "RH49+RW, Hanga Roa, Isla de Pascua, Valparaíso, Chile",
+  "neighborhood": null,
+  "street": "RH49+RW",
+  "city": "Hanga Roa, Isla de Pascua",
+  "postalCode": null,
+  "state": "Valparaíso",
+  "countryCode": "CL",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -27.1928778,
+    "lng": -109.4302282
+  },
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJSRLXKqz5R5kRHniQKuaefls",
+  "categories": [
+    "Sociedad de viviendas"
+  ],
+  "fid": "0x9947f9ac2ad71249:0x5b7e9ee62a90781e",
+  "cid": "6592881615910762526",
+  "reviewsCount": 1,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 1
+  },
+  "imagesCount": null,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:32:45.664Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Oggy%20house&query_place_id=ChIJSRLXKqz5R5kRHniQKuaefls",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-27.128,-109.61776032234634,12z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 25,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepPRLHQJj839uT-RrHiocDVeOAKtbI37yA5Exx7Ve_3qgpgPSrm89dLG0mXPiw3STn0LIjt1MyX82ROjcLv69qHPHfD6aXpiID06lxL-T7l7fkTub_TJ7uPaOISAYX06znc2-J5xS7oyLhm=w408-h725-k-no",
+  "kgmid": "/g/11txfr_gwk"
+},
+{
+  "title": "Coo",
+  "price": null,
+  "categoryName": "Urbanización",
+  "address": "Manuiti, Hanga Roa, Isla de Pascua, Valparaíso, Chile",
+  "neighborhood": null,
+  "street": "Manuiti",
+  "city": "Hanga Roa, Isla de Pascua",
+  "postalCode": null,
+  "state": "Valparaíso",
+  "countryCode": "CL",
+  "phone": "+56 9 7102 0585",
+  "phoneUnformatted": "+56971020585",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -27.1531468,
+    "lng": -109.4275829
+  },
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJdTdZBAD7R5kRkxHXaHvqphg",
+  "categories": [
+    "Urbanización"
+  ],
+  "fid": "0x9947fb0004593775:0x18a6ea7b68d71193",
+  "cid": "1776364918805041555",
+  "reviewsCount": null,
+  "imagesCount": null,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:32:45.664Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Coo&query_place_id=ChIJdTdZBAD7R5kRkxHXaHvqphg",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-27.128,-109.61776032234634,12z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 26,
+  "isAdvertisement": false,
+  "kgmid": "/g/11vwv0_mwk"
+},
+{
+  "title": "Heretea y Dhar",
+  "price": null,
+  "categoryName": "Apicultor",
+  "address": "Piataro s/n, 2770000 Isla de Pascua, Valparaíso, Chile",
+  "neighborhood": null,
+  "street": "Piataro s/n",
+  "city": "Isla de Pascua",
+  "postalCode": "2770000",
+  "state": "Valparaíso",
+  "countryCode": "CL",
+  "phone": "+56 9 7516 8683",
+  "phoneUnformatted": "+56975168683",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -27.1525245,
+    "lng": -109.408915
+  },
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ_wo23VD7R5kRUMMKydG_YLU",
+  "categories": [
+    "Apicultor"
+  ],
+  "fid": "0x9947fb50dd360aff:0xb560bfd1c90ac350",
+  "cid": "13069657026371175248",
+  "reviewsCount": null,
+  "imagesCount": null,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:32:45.664Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "miércoles",
+      "hours": "9 AM to 1 PM"
+    },
+    {
+      "day": "jueves",
+      "hours": "9 AM to 1 PM"
+    },
+    {
+      "day": "viernes",
+      "hours": "9 AM to 1 PM"
+    },
+    {
+      "day": "sábado",
+      "hours": "Cerrado"
+    },
+    {
+      "day": "domingo",
+      "hours": "Cerrado"
+    },
+    {
+      "day": "lunes",
+      "hours": "9 AM to 1 PM"
+    },
+    {
+      "day": "martes",
+      "hours": "9 AM to 1 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Heretea%20y%20Dhar&query_place_id=ChIJ_wo23VD7R5kRUMMKydG_YLU",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-27.128,-109.61776032234634,12z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 27,
+  "isAdvertisement": false,
+  "kgmid": "/g/11sjv2t_34"
+},
+{
+  "title": "Pau pau hause",
+  "price": null,
+  "address": "RHVM+4J, Hanga Roa, Isla de Pascua, Valparaíso, Chile",
+  "neighborhood": null,
+  "street": "RHVM+4J",
+  "city": "Hanga Roa, Isla de Pascua",
+  "postalCode": null,
+  "state": "Valparaíso",
+  "countryCode": "CL",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -27.1576137,
+    "lng": -109.4163314
+  },
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJdw-FNgD7R5kRuigkvWpxpuA",
+  "categories": [],
+  "fid": "0x9947fb0036850f77:0xe0a6716abd2428ba",
+  "cid": "16187750613883562170",
+  "reviewsCount": 2,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 2
+  },
+  "imagesCount": null,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:32:45.664Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Pau%20pau%20hause&query_place_id=ChIJdw-FNgD7R5kRuigkvWpxpuA",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-27.128,-109.61776032234634,12z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 28,
+  "isAdvertisement": false,
+  "kgmid": "/g/11x2yqw4w8"
+},
+{
+  "title": "Urbano Hotu",
+  "price": null,
+  "address": "Isla de Pascua, Valparaíso, Chile",
+  "neighborhood": null,
+  "street": null,
+  "city": "Isla de Pascua",
+  "postalCode": null,
+  "state": "Valparaíso",
+  "countryCode": "CL",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -27.1326788,
+    "lng": -109.416598
+  },
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJB6ZtDQD7R5kRV_PsZs1pl3c",
+  "categories": [],
+  "fid": "0x9947fb000d6da607:0x779769cd66ecf357",
+  "cid": "8617472742912750423",
+  "reviewsCount": null,
+  "imagesCount": null,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:32:45.664Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Urbano%20Hotu&query_place_id=ChIJB6ZtDQD7R5kRV_PsZs1pl3c",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-27.128,-109.61776032234634,12z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 29,
+  "isAdvertisement": false,
+  "kgmid": "/g/11ltfd41bn"
+},
+{
+  "title": "Atamu Ranch",
+  "price": null,
+  "categoryName": "Criador de caballos",
+  "address": "Vai Kia Kia, Isla de Pascua, Valparaíso, Chile",
+  "neighborhood": null,
+  "street": "Vai Kia Kia",
+  "city": "Isla de Pascua",
+  "postalCode": null,
+  "state": "Valparaíso",
+  "countryCode": "CL",
+  "website": "https://www.instagram.com/matamea_kingdom/",
+  "phone": "+56 9 3916 8420",
+  "phoneUnformatted": "+56939168420",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -27.1362211,
+    "lng": -109.4131258
+  },
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJLWjaAQD7R5kR5yBDsAFJiZM",
+  "categories": [
+    "Criador de caballos"
+  ],
+  "fid": "0x9947fb0001da682d:0x93894901b04320e7",
+  "cid": "10631108666985750759",
+  "reviewsCount": 1,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 1
+  },
+  "imagesCount": 4,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:32:45.664Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "miércoles",
+      "hours": "6 AM to 8 PM"
+    },
+    {
+      "day": "jueves",
+      "hours": "6 AM to 8 PM"
+    },
+    {
+      "day": "viernes",
+      "hours": "6 AM to 8 PM"
+    },
+    {
+      "day": "sábado",
+      "hours": "6 AM to 8 PM"
+    },
+    {
+      "day": "domingo",
+      "hours": "6 AM to 8 PM"
+    },
+    {
+      "day": "lunes",
+      "hours": "6 AM to 8 PM"
+    },
+    {
+      "day": "martes",
+      "hours": "6 AM to 8 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Atamu%20Ranch&query_place_id=ChIJLWjaAQD7R5kR5yBDsAFJiZM",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-27.128,-109.61776032234634,12z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 30,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqgn5Peqlseonq4TXFvqkNwN-ZHCozMVpzRRx9evt2oLbkkFXshImtX9FBj-axRH4nikidWFr_aYZlEhAERvaFmDfrqwwMbb6vhIs1_HuAYX7Lz8gb6F7nXkfV016rhTJimMwlokA=w408-h544-k-no",
+  "kgmid": "/g/11wttt_5j8"
+},
+{
+  "title": "Hare o Tonga House",
+  "price": null,
+  "address": "Tuki Haka He Vari s/n, 2770000 Hanga Roa, Easter Island, Valparaíso, Chile",
+  "neighborhood": null,
+  "street": "Tuki Haka He Vari s/n",
+  "city": "Hanga Roa, Easter Island",
+  "postalCode": "2770000",
+  "state": "Valparaíso",
+  "countryCode": "CL",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -27.1536177,
+    "lng": -109.4272208
+  },
+  "totalScore": 4.3,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJne3SwKz7R5kRRFEJewBBBvQ",
+  "categories": [],
+  "fid": "0x9947fbacc0d2ed9d:0xf40641007b095144",
+  "cid": "17583813265434693956",
+  "reviewsCount": 4,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 1,
+    "fourStar": 1,
+    "fiveStar": 2
+  },
+  "imagesCount": null,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:32:45.664Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Hare%20o%20Tonga%20House&query_place_id=ChIJne3SwKz7R5kRRFEJewBBBvQ",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-27.128,-109.61776032234634,12z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 31,
+  "isAdvertisement": false,
+  "kgmid": "/g/11b73rmsm0"
+},
+{
+  "title": "Casa Romina",
+  "price": null,
+  "address": "Ara Piki, Isla de Pascua, Valparaíso, Chile",
+  "neighborhood": null,
+  "street": "Ara Piki",
+  "city": "Isla de Pascua",
+  "postalCode": null,
+  "state": "Valparaíso",
+  "countryCode": "CL",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -27.1406151,
+    "lng": -109.4052738
+  },
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJi_JmfgD7R5kRR5mn-hDhvpQ",
+  "categories": [],
+  "fid": "0x9947fb007e66f28b:0x94bee110faa79947",
+  "cid": "10718251626229373255",
+  "reviewsCount": null,
+  "imagesCount": null,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:32:45.664Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Casa%20Romina&query_place_id=ChIJi_JmfgD7R5kRR5mn-hDhvpQ",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-27.128,-109.61776032234634,12z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 32,
+  "isAdvertisement": false,
+  "kgmid": "/g/11wfhtshm_"
+},
+{
+  "title": "Victoria Tepano Pate",
+  "price": null,
+  "address": "RJW4+P3, Hanga Roa, Isla de Pascua, Valparaíso, Chile",
+  "neighborhood": null,
+  "street": "RJW4+P3",
+  "city": "Hanga Roa, Isla de Pascua",
+  "postalCode": null,
+  "state": "Valparaíso",
+  "countryCode": "CL",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -27.1532052,
+    "lng": -109.3948301
+  },
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJE4NNaQD7R5kR78Heqoa2q_A",
+  "categories": [],
+  "fid": "0x9947fb00694d8313:0xf0abb686aadec1ef",
+  "cid": "17342155479628825071",
+  "reviewsCount": null,
+  "imagesCount": null,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:32:45.664Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Victoria%20Tepano%20Pate&query_place_id=ChIJE4NNaQD7R5kR78Heqoa2q_A",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-27.128,-109.61776032234634,12z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 33,
+  "isAdvertisement": false,
+  "kgmid": "/g/11yfyb6p73"
+},
+{
+  "title": "Haré Mauri y Danny",
+  "price": null,
+  "categoryName": "Condominio",
+  "address": "Petero Atamu s/n, Hanga Roa, Isla de Pascua, Valparaíso, Chile",
+  "neighborhood": null,
+  "street": "Petero Atamu s/n",
+  "city": "Hanga Roa, Isla de Pascua",
+  "postalCode": null,
+  "state": "Valparaíso",
+  "countryCode": "CL",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -27.1437927,
+    "lng": -109.4264722
+  },
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJY104SAD7R5kRvdrPojhTxak",
+  "categories": [
+    "Condominio"
+  ],
+  "fid": "0x9947fb0048385d63:0xa9c55338a2cfdabd",
+  "cid": "12233275465536625341",
+  "reviewsCount": 1,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 1
+  },
+  "imagesCount": null,
+  "imageCategories": [],
+  "scrapedAt": "2026-02-25T13:32:45.664Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Har%C3%A9%20Mauri%20y%20Danny&query_place_id=ChIJY104SAD7R5kRvdrPojhTxak",
+  "searchPageUrl": "https://www.google.com/maps/search/inmobiliaria%20Valpara%EF%BF%BDso/@-27.128,-109.61776032234634,12z?hl=es",
+  "searchString": "inmobiliaria Valpara�so",
+  "language": "es",
+  "rank": 34,
+  "isAdvertisement": false,
+  "kgmid": "/g/11y3hn7tb7"
+}]

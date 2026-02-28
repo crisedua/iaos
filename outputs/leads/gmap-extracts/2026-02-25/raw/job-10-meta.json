@@ -1,0 +1,10 @@
+{
+  "job": 10,
+  "query": "inmobiliaria Santiago",
+  "category": "inmobiliarias",
+  "city": "Santiago",
+  "runId": "DncVEcedPurQ7GBUC",
+  "datasetId": "NGWUteSFtZFQAtTdf",
+  "status": "SUCCEEDED",
+  "rawCount": 100
+}

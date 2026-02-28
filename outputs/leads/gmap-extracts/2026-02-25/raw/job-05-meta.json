@@ -1,0 +1,10 @@
+{
+  "job": 5,
+  "query": "abogado Viña del Mar",
+  "category": "abogados",
+  "city": "Viña del Mar",
+  "runId": "o2NM8wtPcKQDgfCuj",
+  "datasetId": "1FnJVv2xiEwz81hUO",
+  "status": "SUCCEEDED",
+  "rawCount": 100
+}

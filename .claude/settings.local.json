@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(tail:*)",
+      "Bash(cd:*)",
+      "Bash(head:*)",
+      "Bash(cd C:/ClaudeCode && node scripts/prepare-outreach.js --channel sms --batch 3 && node scripts/send-sms.js --preview 2>&1)",
+      "Bash(cd C:/ClaudeCode && node scripts/find-emails.js --limit 5 --delay 800 2>&1)",
+      "Bash(cd C:/ClaudeCode && node scripts/prepare-outreach.js --channel email --batch 3 --dry-run 2>&1 && echo \"===\" && node scripts/prepare-outreach.js --channel email --batch 3 2>&1 && echo \"===\" && node scripts/send-email.js --preview 2>&1)",
+      "Bash(cd C:/ClaudeCode && node scripts/prepare-outreach.js --channel email --batch 3 2>&1 && echo \"===\" && node scripts/send-email.js --preview 2>&1)"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "apify": {
+    "command": "npx",
+    "args": ["-y", "@apify/actors-mcp-server"],
+    "env": {
+      "APIFY_TOKEN": "${APIFY_TOKEN}"
+    }
+  },
+  "gdrive": {
+    "command": "npx",
+    "args": ["-y", "@modelcontextprotocol/server-gdrive"],
+    "env": {
+      "GDRIVE_CREDENTIALS_PATH": "C:/Users/eesca/.google-mcp/.gdrive-server-credentials.json",
+      "GDRIVE_OAUTH_PATH": "C:/Users/eesca/.google-mcp/gcp-oauth.keys.json"
+    }
+  },
+  "gmail": {
+    "command": "npx",
+    "args": ["-y", "@gongrzhe/server-gmail-autoauth-mcp"]
+  }
+}

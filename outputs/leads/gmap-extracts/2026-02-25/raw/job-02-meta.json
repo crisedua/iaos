@@ -1,0 +1,10 @@
+{
+  "job": 2,
+  "query": "dentista Viña del Mar",
+  "category": "dentistas",
+  "city": "Viña del Mar",
+  "runId": "1G3muizSoI7dgmyEN",
+  "datasetId": "DrouiMzJtMnGUxeah",
+  "status": "SUCCEEDED",
+  "rawCount": 100
+}

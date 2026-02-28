@@ -1,0 +1,10 @@
+{
+  "job": 1,
+  "query": "dentista Santiago",
+  "category": "dentistas",
+  "city": "Santiago",
+  "runId": "iXszKKmdBidxNuuGP",
+  "datasetId": "SoU9f5BooUZK0JgKp",
+  "status": "SUCCEEDED",
+  "rawCount": 100
+}
